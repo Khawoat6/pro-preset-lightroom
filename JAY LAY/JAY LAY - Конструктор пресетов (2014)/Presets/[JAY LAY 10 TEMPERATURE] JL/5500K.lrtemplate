@@ -1,0 +1,16 @@
+s = {
+	id = "1CA8AA7B-B017-42F6-AF39-E516D01636E5",
+	internalName = "5500K",
+	title = "5500K",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 5500,
+			Tint = -12,
+			WhiteBalance = "Custom",
+		},
+		uuid = "B5078193-339C-4112-9581-5C746A521DF2",
+	},
+	version = 0,
+}

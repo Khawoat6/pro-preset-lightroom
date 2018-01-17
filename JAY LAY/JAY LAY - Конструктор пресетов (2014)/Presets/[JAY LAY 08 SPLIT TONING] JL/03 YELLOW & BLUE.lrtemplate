@@ -1,0 +1,19 @@
+s = {
+	id = "6A9CC424-9D94-4EA9-893D-A85EB51A1676",
+	internalName = "03 YELLOW & BLUE",
+	title = "03 YELLOW & BLUE",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 79,
+			SplitToningHighlightHue = 46,
+			SplitToningHighlightSaturation = 5,
+			SplitToningShadowHue = 226,
+			SplitToningShadowSaturation = 5,
+		},
+		uuid = "2C81F708-6897-4D33-9D09-24EC32060588",
+	},
+	version = 0,
+}

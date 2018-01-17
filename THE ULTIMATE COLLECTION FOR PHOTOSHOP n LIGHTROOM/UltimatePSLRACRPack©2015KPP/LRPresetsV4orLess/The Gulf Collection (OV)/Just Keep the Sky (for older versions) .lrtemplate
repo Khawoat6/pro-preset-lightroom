@@ -1,0 +1,15 @@
+s = {
+	id = "21B2CC1A-B81A-4CA1-A0FA-AB01B554B839",
+	internalName = "Just Keep the Sky (for older versions) 2",
+	title = "Just Keep the Sky (for older versions) 2",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableGradientBasedCorrections = true,
+			HighlightRecovery = 71,
+			orientation = "AB",
+		},
+		uuid = "E45BA04C-93B4-4AA8-BA1D-18138A0ADA78",
+	},
+	version = 0,
+}

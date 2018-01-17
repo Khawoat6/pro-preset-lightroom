@@ -1,0 +1,14 @@
+s = {
+	id = "C:\\Users\\Gary\\AppData\\Roaming\\Adobe\\Lightroom\\Develop Presets\\ARTISTIC 2\\WOW-b_Vibrance-1-2.lrtemplate",
+	internalName = "WOWa_Auto-Tone+Vib1",
+	title = "ARTISTIC2-Darkness 3",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			Vibrance = -26,
+		},
+		uuid = "D1681245-5220-4309-B9D7-89141028D8B0",
+	},
+	version = 0,
+}

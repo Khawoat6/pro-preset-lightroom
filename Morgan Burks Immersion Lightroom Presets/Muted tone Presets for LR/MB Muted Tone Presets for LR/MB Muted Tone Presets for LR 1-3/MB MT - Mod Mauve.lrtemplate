@@ -1,0 +1,16 @@
+s = {
+	id = "BCF93EA2-0867-44F4-B2F7-5DA81CCF5FC9",
+	internalName = "MB MT - Mod Mauve",
+	title = "MB MT - Mod Mauve",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			IncrementalTemperature = 2,
+			IncrementalTint = 24,
+			WhiteBalance = "Custom",
+		},
+		uuid = "27489DA5-CA7E-49EE-ABBB-F188B531943E",
+	},
+	version = 0,
+}

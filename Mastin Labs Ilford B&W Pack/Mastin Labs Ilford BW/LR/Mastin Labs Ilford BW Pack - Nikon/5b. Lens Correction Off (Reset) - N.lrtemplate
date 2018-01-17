@@ -1,0 +1,16 @@
+s = {
+	id = "F2E7A8CE-79CF-4AF4-8364-0545BA08D34E",
+	internalName = "5b. Lens Correction Off (Reset) - N",
+	title = "5b. Lens Correction Off (Reset) - N",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			LensProfileEnable = 0,
+			LensProfileSetup = "Auto",
+			ProcessVersion = "6.7",
+		},
+		uuid = "ADCD3B39-1AD5-440B-9733-16C509959001",
+	},
+	version = 0,
+}

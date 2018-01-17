@@ -1,0 +1,19 @@
+s = {
+	id = "E2757475-674C-4ECC-90D4-6A9E581AFA9D",
+	internalName = "Tone | Beam",
+	title = "Tone | Beam",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 43,
+			SplitToningHighlightHue = 93,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 236,
+			SplitToningShadowSaturation = 79,
+		},
+		uuid = "06FE7615-DBF0-4A59-BE79-C8DB3626BFAB",
+	},
+	version = 0,
+}

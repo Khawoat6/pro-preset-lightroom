@@ -1,0 +1,25 @@
+s = {
+	id = "0A78C40F-436A-4BB9-8751-E735B6D6519F",
+	internalName = "The Basics (Neutral WB) (for older versions)",
+	title = "The Basics (Neutral WB) (for older versions)",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			Brightness = 12,
+			Contrast = 9,
+			Exposure = 0.55,
+			FillLight = 23,
+			HighlightRecovery = 18,
+			Shadows = 9,
+			Temperature = 7165,
+			Tint = 3,
+			WhiteBalance = "Custom",
+		},
+		uuid = "661F10AE-99A2-436F-8015-DD22EA718F0A",
+	},
+	version = 0,
+}

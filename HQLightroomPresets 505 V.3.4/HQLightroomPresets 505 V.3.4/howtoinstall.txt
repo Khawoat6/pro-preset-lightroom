@@ -1,0 +1,64 @@
+Dear Customer,
+
+Thank you very much for purchasing these premium presets HQ Lightroom Presets 505 V.3.4
+
+If You are using Adobe Lightroom 2-3 and you shoot Jpeg you can import JPEG Presets Version 
+( folder : HQLightroomPresets Lr2-Lr3 JPEG )
+
+If You are using Adobe Lightroom 2-3 and you shoot RAW you can import RAW Presets Version
+( folder : HQLightroomPresets Lr2-Lr3 RAW )
+
+And If You Shoot both, you can import both presets in different folder
+
+If You are using Adobe Lightroom 4-5 and you can import the Presets
+( HQLightroomPresets Lr4-Lr5 JPEG & RAW ) it support both Jpeg & RAW format.
+
+
+If Your are using Adobe Photoshop CS6 above or Camera Raw 7.0 above you can import ACR presets
+( HQLightroomPresets ACR Presets )
+
+
+How To Install Lightroom Presets
+
+It is very easy to install the Lightroom presets
+
+1. After your downloaded the presets in ZIP-file, extract them to a folder in your hard drive.
+
+2. Open Lightroom, Click on Develop Tab ( d )
+
+3. Go to the Left and see the Presets Section and Expand it
+
+4. Right Click on any subfolder inside the presets section, and select “new folder”
+
+5. A new window will pop out and you can give a name, such as ” HQ Lightroom Presets”
+
+6. Go back your cursor to new folder inside the presets section and right click ( pc ) or control click ( mac ), select “import”
+
+7. A new windows pop out, and you can browse out on your hard drive to directory where you put the unzipped presets, you can choose all that you want to import.
+
+8. Clik Open, and Lightroom Presets is ready to use,, Enjoy,,
+
+
+You can find complete tutorial How To Install lightroom presets on here
+http://hqlightroompresets.com/how-to-install-lightroom-presets/
+
+
+How To Install ACR Presets 
+
+1. After your downloaded the presets in ZIP-file, extract them to a folder in your hard drive.
+
+2. Locate in your hard drive :
+
+Windows  :  Local Disk ( C: ) /Users/myName/AppData/Roaming/Adobe/Camera Raw/Settings -- then copy all 440 xmp file into this folder   (make sure you show the hidden folder from the explorer option )
+
+Mac :  (user)/Library/Application Support/Adobe/Camera Raw/Settings --- then copy all 440 xmp file into this folder
+
+3. Open DNG or RAW file via Adobe Photoshop then seek for the presets tab icon then Voila ! the Presets are ready to use.
+
+You can find complete tutorial How To Install ACR presets on here
+http://hqlightroompresets.com/how-to-install-lightroom-presets/
+
+
+Thank You and Enjoy The Presets !!
+
+HQLightroomPresets.com

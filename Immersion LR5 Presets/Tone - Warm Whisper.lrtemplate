@@ -1,0 +1,19 @@
+s = {
+	id = "B3A05C2C-DADB-4A6E-BF26-A55BAF74C6C8",
+	internalName = "Tone - Warm Whisper",
+	title = "Tone - Warm Whisper",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 39,
+			SplitToningHighlightSaturation = 14,
+			SplitToningShadowHue = 56,
+			SplitToningShadowSaturation = 5,
+		},
+		uuid = "DD9DFA65-FF56-4359-B484-1D63EA07E027",
+	},
+	version = 0,
+}

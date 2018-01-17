@@ -1,0 +1,19 @@
+s = {
+	id = "390E70C4-5DCF-436B-8A00-EA69AE05CD82",
+	internalName = "Tone | Toast",
+	title = "Tone | Toast",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = -55,
+			SplitToningHighlightHue = 50,
+			SplitToningHighlightSaturation = 80,
+			SplitToningShadowHue = 317,
+			SplitToningShadowSaturation = 6,
+		},
+		uuid = "DA180E8F-6BB7-42A6-988B-34975931159D",
+	},
+	version = 0,
+}

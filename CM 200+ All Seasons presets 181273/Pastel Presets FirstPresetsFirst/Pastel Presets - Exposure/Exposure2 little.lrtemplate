@@ -1,0 +1,15 @@
+s = {
+	id = "F00A8C42-75AD-4081-99AB-8366546450E4",
+	internalName = "Exposure2 little",
+	title = "Exposure2 little",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 10,
+			Exposure2012 = 0.25,
+			ProcessVersion = "6.7",
+		},
+		uuid = "F24C2638-4F3E-478E-85F9-3A75B31FE234",
+	},
+	version = 0,
+}

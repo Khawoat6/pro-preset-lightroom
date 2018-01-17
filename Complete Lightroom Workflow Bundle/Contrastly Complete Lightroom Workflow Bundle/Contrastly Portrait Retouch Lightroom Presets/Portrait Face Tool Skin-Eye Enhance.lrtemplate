@@ -1,0 +1,16 @@
+s = {
+	id = "4DAD8A3B-D034-4181-9B40-0A2E586A27F2",
+	internalName = "Portrait Face Tool Skin/Eye Enhance",
+	title = "Portrait Face Tool Skin/Eye Enhance",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableCircularGradientBasedCorrections = true,
+			EnableGradientBasedCorrections = true,
+			ProcessVersion = "6.7",
+			orientation = "AB",
+		},
+		uuid = "285A050B-4665-418B-AAF5-30B0017A8D9C",
+	},
+	version = 0,
+}

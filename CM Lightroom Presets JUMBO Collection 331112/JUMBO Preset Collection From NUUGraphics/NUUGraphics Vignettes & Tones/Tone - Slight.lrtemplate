@@ -1,0 +1,19 @@
+s = {
+	id = "981C186F-5E4B-4F7D-9FBB-22F8723CC40B",
+	internalName = "Tone | Slight",
+	title = "Tone | Slight",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 50,
+			SplitToningHighlightHue = 159,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 17,
+			SplitToningShadowSaturation = 79,
+		},
+		uuid = "E79A08FB-0358-49B2-9F4D-3D971708CCF0",
+	},
+	version = 0,
+}

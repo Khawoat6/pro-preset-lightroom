@@ -1,0 +1,20 @@
+s = {
+	id = "2E8E1EB0-9E96-4EBF-9E04-917A7DFB42B9",
+	internalName = "Food-AddVignetteWhite",
+	title = "Food-AddVignetteWhite",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = 29,
+			PostCropVignetteFeather = 87,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 36,
+			PostCropVignetteRoundness = 24,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "2061CB51-00F5-41E4-AD73-A6ADBBB88280",
+	},
+	version = 0,
+}

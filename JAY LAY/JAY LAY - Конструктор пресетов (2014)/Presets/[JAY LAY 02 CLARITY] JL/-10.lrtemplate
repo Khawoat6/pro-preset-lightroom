@@ -1,0 +1,14 @@
+s = {
+	id = "33D80459-65E0-4002-8316-4775A2E5373B",
+	internalName = "-10",
+	title = "-10",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = -10,
+			ProcessVersion = "6.7",
+		},
+		uuid = "3943ABA1-CA3F-47DC-A5A8-856E8DC8C304",
+	},
+	version = 0,
+}

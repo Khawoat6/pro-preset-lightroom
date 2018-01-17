@@ -1,0 +1,16 @@
+s = {
+	id = "78874D64-3B6B-4FBF-8C0D-8385C0040BB8",
+	internalName = "Tint - Cloudless",
+	title = "Tint - Cloudless",
+	type = "Develop",
+	value = {
+		settings = {
+			IncrementalTemperature = 24,
+			IncrementalTint = 10,
+			ProcessVersion = "6.7",
+			WhiteBalance = "Custom",
+		},
+		uuid = "8B190A8B-7428-48CE-ABA1-F52566988FAD",
+	},
+	version = 0,
+}

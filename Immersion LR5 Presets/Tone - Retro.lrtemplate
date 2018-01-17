@@ -1,0 +1,19 @@
+s = {
+	id = "E99B8211-7E41-416E-823E-1639E38A6B0A",
+	internalName = "Tone - Retro",
+	title = "Tone - Retro",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 90,
+			SplitToningHighlightSaturation = 21,
+			SplitToningShadowHue = 0,
+			SplitToningShadowSaturation = 17,
+		},
+		uuid = "6EB643AC-D772-454E-BCB2-8354264E0090",
+	},
+	version = 0,
+}

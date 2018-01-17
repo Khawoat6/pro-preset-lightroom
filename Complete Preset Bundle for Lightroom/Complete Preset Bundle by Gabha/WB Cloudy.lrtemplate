@@ -1,0 +1,16 @@
+s = {
+	id = "69A23926-1030-4BDF-9E44-DA238843C5BF",
+	internalName = "WB Cloudy",
+	title = "WB Cloudy",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 6500,
+			Tint = 10,
+			WhiteBalance = "Cloudy",
+		},
+		uuid = "67F36DFD-E192-4F14-B1D0-365C3684F4C2",
+	},
+	version = 0,
+}

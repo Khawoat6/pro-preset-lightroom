@@ -1,0 +1,33 @@
+s = {
+	id = "9B969AC4-F83B-42A3-9AA8-136B83D224E5",
+	internalName = "MB MT - Matte - Cool Shadows, Warm Highlights",
+	title = "MB MT - Matte - Cool Shadows, Warm Highlights",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			EnableSplitToning = true,
+			ParametricDarks = -32,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = -18,
+			ParametricLights = 24,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 77,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 39,
+			SplitToningHighlightSaturation = 6,
+			SplitToningShadowHue = 261,
+			SplitToningShadowSaturation = 10,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurveName = "Linear",
+		},
+		uuid = "AB682E4C-F2CD-43A4-8722-AE53AC5E0A5F",
+	},
+	version = 0,
+}

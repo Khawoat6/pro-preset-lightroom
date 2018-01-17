@@ -1,0 +1,14 @@
+s = {
+	id = "756CB542-CBD8-40EC-9A56-BEAB1328A8E5",
+	internalName = "(Baby Work) Ligthen II",
+	title = "(Baby Work) Ligthen II",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoExposure = false,
+			Exposure = 0.41,
+		},
+		uuid = "31666A5E-0D13-4AE6-8754-D0E393F6B9F2",
+	},
+	version = 0,
+}

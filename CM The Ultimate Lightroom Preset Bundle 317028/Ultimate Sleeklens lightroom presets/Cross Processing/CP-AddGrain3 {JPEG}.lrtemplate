@@ -1,0 +1,17 @@
+s = {
+	id = "0020A8B4-F5EB-496F-BA0E-3720BEF6E459",
+	internalName = "CP-AddGrain3 {JPEG}",
+	title = "CP-AddGrain3 {JPEG}",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 14,
+			GrainFrequency = 57,
+			GrainSize = 26,
+			ProcessVersion = "6.7",
+		},
+		uuid = "DA29D958-5F44-4621-B1C1-D1D62F2A5EEE",
+	},
+	version = 0,
+}

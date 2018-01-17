@@ -1,0 +1,20 @@
+s = {
+	id = "8D32ED20-0493-4440-9714-53D92E0588B4",
+	internalName = "HDR-AddContrast",
+	title = "HDR-AddContrast",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 54,
+			Contrast2012 = 47,
+			EnableDetail = true,
+			ProcessVersion = "6.7",
+			SharpenDetail = 35,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 0.9,
+			Sharpness = 49,
+		},
+		uuid = "0884E3E3-AA85-4631-A09A-3D95D63DF9DF",
+	},
+	version = 0,
+}

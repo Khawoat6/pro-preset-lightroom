@@ -1,0 +1,23 @@
+s = {
+	id = "68326668-4DED-44FE-8818-D3D1D8CD68C4",
+	internalName = "Vignette 1",
+	title = "Vignette 1",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			PostCropVignetteAmount = -19,
+			PostCropVignetteFeather = 58,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 14,
+			PostCropVignetteRoundness = -45,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "C2CD6E2D-C015-40C5-8934-B18EEB3D2DE3",
+	},
+	version = 0,
+}

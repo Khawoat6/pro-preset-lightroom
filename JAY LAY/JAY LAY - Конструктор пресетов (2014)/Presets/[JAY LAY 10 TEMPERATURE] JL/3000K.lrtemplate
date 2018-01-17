@@ -1,0 +1,16 @@
+s = {
+	id = "16B1771A-0411-4101-A6F3-26332589ACFD",
+	internalName = "3000K",
+	title = "3000K",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 3000,
+			Tint = -12,
+			WhiteBalance = "Custom",
+		},
+		uuid = "DE37CD72-4CFB-49E2-B3FC-0FFC00B153E9",
+	},
+	version = 0,
+}

@@ -1,0 +1,22 @@
+s = {
+	id = "6F5807DF-2F35-42DC-A012-1183509041B2",
+	internalName = "MB MT - Redness Reduction",
+	title = "MB MT - Redness Reduction",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Adobe Standard",
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = -31,
+			ProcessVersion = "6.7",
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "1BCA730F-10F4-47BE-8EA6-00D853E94F14",
+	},
+	version = 0,
+}

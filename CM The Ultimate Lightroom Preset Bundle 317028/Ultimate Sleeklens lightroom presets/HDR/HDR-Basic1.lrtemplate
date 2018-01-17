@@ -1,0 +1,21 @@
+s = {
+	id = "2D956809-C6B0-491B-A791-2D73671DD5ED",
+	internalName = "HDR-Basic1",
+	title = "HDR-Basic1",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 0,
+			Clarity2012 = 31,
+			Contrast2012 = -14,
+			ConvertToGrayscale = false,
+			Highlights2012 = -66,
+			ProcessVersion = "6.7",
+			Shadows2012 = 62,
+			Vibrance = 7,
+			Whites2012 = -11,
+		},
+		uuid = "B7794189-2D3D-4654-924C-5406EC420F34",
+	},
+	version = 0,
+}

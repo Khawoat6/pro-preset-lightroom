@@ -1,0 +1,20 @@
+s = {
+	id = "172B24EA-1D79-47D8-83AC-2A90F02AF6C6",
+	internalName = "01 VI",
+	title = "01 VI",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -13,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 40,
+			PostCropVignetteRoundness = 12,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "16286278-C148-4D3A-B126-AEC3E3DCA62A",
+	},
+	version = 0,
+}

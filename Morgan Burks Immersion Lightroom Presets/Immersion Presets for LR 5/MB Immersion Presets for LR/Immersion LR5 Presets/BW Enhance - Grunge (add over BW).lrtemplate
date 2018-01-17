@@ -1,0 +1,14 @@
+s = {
+	id = "18A26A98-80F8-489A-9570-9059B3A08D83",
+	internalName = "BW Enhance - Grunge (add over BW)",
+	title = "BW Enhance - Grunge (add over BW)",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 50,
+			ProcessVersion = "6.7",
+		},
+		uuid = "95FFC710-3919-4D19-B8D5-8CD11B75E39A",
+	},
+	version = 0,
+}

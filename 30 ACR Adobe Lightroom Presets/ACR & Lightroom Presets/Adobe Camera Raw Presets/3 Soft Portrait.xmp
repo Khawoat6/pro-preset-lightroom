@@ -1,0 +1,32 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:Version="9.0"
+   crs:ProcessVersion="6.7"
+   crs:AutoExposure="False"
+   crs:AutoShadows="False"
+   crs:AutoBrightness="False"
+   crs:AutoContrast="False"
+   crs:Saturation="0"
+   crs:Sharpness="90"
+   crs:Vibrance="+35"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="25"
+   crs:SharpenEdgeMasking="0"
+   crs:PostCropVignetteAmount="-49"
+   crs:PostCropVignetteMidpoint="50"
+   crs:PostCropVignetteFeather="65"
+   crs:PostCropVignetteRoundness="0"
+   crs:PostCropVignetteStyle="1"
+   crs:PostCropVignetteHighlightContrast="49"
+   crs:Contrast2012="0"
+   crs:Highlights2012="-55"
+   crs:Shadows2012="+14"
+   crs:Clarity2012="-16"
+   crs:EnableDetail="True"
+   crs:EnableEffects="True"
+   crs:GrainSeed="2944182745"
+   crs:HasSettings="True"/>
+ </rdf:RDF>
+</x:xmpmeta>

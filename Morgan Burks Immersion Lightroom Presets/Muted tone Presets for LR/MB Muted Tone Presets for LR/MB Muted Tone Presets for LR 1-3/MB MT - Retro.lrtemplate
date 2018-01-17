@@ -1,0 +1,19 @@
+s = {
+	id = "C346A79D-4F3C-4C18-B922-CE94ED919AE1",
+	internalName = "MB MT - Retro",
+	title = "MB MT - Retro",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			EnableSplitToning = true,
+			SplitToningBalance = 21,
+			SplitToningHighlightHue = 189,
+			SplitToningHighlightSaturation = 12,
+			SplitToningShadowHue = 0,
+			SplitToningShadowSaturation = 30,
+		},
+		uuid = "30CB9364-9ED8-44DF-AF2E-E717E203E1EF",
+	},
+	version = 0,
+}

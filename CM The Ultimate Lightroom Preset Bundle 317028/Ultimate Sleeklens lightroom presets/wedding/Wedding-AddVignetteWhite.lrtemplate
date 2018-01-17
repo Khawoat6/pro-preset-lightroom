@@ -1,0 +1,20 @@
+s = {
+	id = "0DE7A223-E03A-4700-93A9-FBA612762EDB",
+	internalName = "Wedding-AddVignetteWhite",
+	title = "Wedding-AddVignetteWhite",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = 42,
+			PostCropVignetteFeather = 68,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 36,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "AB94A917-F5CD-486E-88FE-9A330E9BA495",
+	},
+	version = 0,
+}

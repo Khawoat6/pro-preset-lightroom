@@ -1,0 +1,16 @@
+s = {
+	id = "F1435B53-1781-435F-AA46-829B3840F0A5",
+	internalName = "Tint - Chilled",
+	title = "Tint - Chilled",
+	type = "Develop",
+	value = {
+		settings = {
+			IncrementalTemperature = -17,
+			IncrementalTint = -10,
+			ProcessVersion = "6.7",
+			WhiteBalance = "Custom",
+		},
+		uuid = "570B7DDD-6262-4B29-916A-ADB8CEF4DAB8",
+	},
+	version = 0,
+}

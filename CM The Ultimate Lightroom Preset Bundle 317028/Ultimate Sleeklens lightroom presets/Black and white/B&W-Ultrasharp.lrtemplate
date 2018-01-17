@@ -1,0 +1,19 @@
+s = {
+	id = "5015099D-7926-4424-B40B-AAE1E35F6B0E",
+	internalName = "Ultrasharp",
+	title = "B&W-Ultrasharp",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 65,
+			EnableDetail = true,
+			ProcessVersion = "6.7",
+			SharpenDetail = 50,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 0.7,
+			Sharpness = 77,
+		},
+		uuid = "BB217921-EC03-4272-B458-8223B7857B50",
+	},
+	version = 0,
+}

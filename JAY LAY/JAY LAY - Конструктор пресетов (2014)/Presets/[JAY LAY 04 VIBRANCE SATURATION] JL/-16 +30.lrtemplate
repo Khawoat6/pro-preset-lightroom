@@ -1,0 +1,16 @@
+s = {
+	id = "1EDF7783-F3F6-45DF-9296-3ED66E9153DD",
+	internalName = "-16 +30",
+	title = "-16 +30",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Saturation = -16,
+			Vibrance = 30,
+		},
+		uuid = "8389FADB-2652-4403-A5AF-B16C73C741B4",
+	},
+	version = 0,
+}

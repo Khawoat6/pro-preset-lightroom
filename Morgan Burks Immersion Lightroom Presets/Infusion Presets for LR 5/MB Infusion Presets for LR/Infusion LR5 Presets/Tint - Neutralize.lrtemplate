@@ -1,0 +1,16 @@
+s = {
+	id = "94DB72E3-8CBB-404B-BD9E-3EAF9D951841",
+	internalName = "Tint - Neutralize",
+	title = "Tint - Neutralize",
+	type = "Develop",
+	value = {
+		settings = {
+			IncrementalTemperature = 0,
+			IncrementalTint = -24,
+			ProcessVersion = "6.7",
+			WhiteBalance = "Custom",
+		},
+		uuid = "B6DBAD23-F295-4A39-A62C-02FEF717FA7C",
+	},
+	version = 0,
+}

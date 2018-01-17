@@ -1,0 +1,19 @@
+s = {
+	id = "4A5FA8F0-FE75-48E9-BC45-4F7AFAE80FAE",
+	internalName = "ST-MagentaHigh",
+	title = "ST-MagentaHigh",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 314,
+			SplitToningHighlightSaturation = 65,
+			SplitToningShadowHue = 166,
+			SplitToningShadowSaturation = 27,
+		},
+		uuid = "CB7B71FB-1551-40C1-9B0C-F0F470C912EF",
+	},
+	version = 0,
+}

@@ -1,0 +1,17 @@
+s = {
+	id = "B6451631-F485-4CEA-A256-5CE4C44436E2",
+	internalName = "Film-AddGrain2 {JPEG}",
+	title = "Film-AddGrain2 {JPEG}",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 22,
+			GrainFrequency = 59,
+			GrainSize = 11,
+			ProcessVersion = "6.7",
+		},
+		uuid = "8A3BE6D3-6A68-49F7-8DE3-64F719DB0911",
+	},
+	version = 0,
+}

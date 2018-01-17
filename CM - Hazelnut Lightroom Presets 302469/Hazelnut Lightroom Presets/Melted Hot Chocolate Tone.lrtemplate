@@ -1,0 +1,18 @@
+s = {
+	id = "9E9D8F94-EE90-4EFB-986D-1F5933670AAC",
+	internalName = "3 Delicious Hot Chocolate Tone",
+	title = "Melted Hot Chocolate Tone",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = -30,
+			SplitToningHighlightHue = 43,
+			SplitToningHighlightSaturation = 24,
+			SplitToningShadowHue = 28,
+			SplitToningShadowSaturation = 55,
+		},
+		uuid = "F0E9758A-F47E-46C2-BDBE-6F1B93CDDAE0",
+	},
+	version = 0,
+}

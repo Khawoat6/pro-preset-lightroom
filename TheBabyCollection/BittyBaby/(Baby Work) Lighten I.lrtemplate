@@ -1,0 +1,14 @@
+s = {
+	id = "43ACB106-0F76-464A-B7BB-5D8278F379D1",
+	internalName = "(Baby Work) Lighten I",
+	title = "(Baby Work) Lighten I",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoExposure = false,
+			Exposure = 0.2,
+		},
+		uuid = "219DDD9E-E0BB-4E27-8E61-4361D2F51EBC",
+	},
+	version = 0,
+}

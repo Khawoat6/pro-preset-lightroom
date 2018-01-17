@@ -1,0 +1,47 @@
+s = {
+	id = "700F2F5D-FB7A-4B7F-A23F-42732CB2EA2A",
+	internalName = "MB MT - Print BW",
+	title = "MB MT - Print BW",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -29,
+			ConvertToGrayscale = true,
+			ParametricDarks = -40,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = -45,
+			ParametricLights = 17,
+			ParametricMidtoneSplit = 33,
+			ParametricShadowSplit = 13,
+			ParametricShadows = 100,
+			ProcessVersion = "6.7",
+			ToneCurveName2012 = "Linear",
+			ToneCurvePV2012 = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Red = {
+				0,
+				0,
+				255,
+				255,
+			},
+		},
+		uuid = "B1E93483-F84A-4A96-BE11-B0766681BBA0",
+	},
+	version = 0,
+}

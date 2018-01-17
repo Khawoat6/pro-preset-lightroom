@@ -1,0 +1,16 @@
+s = {
+	id = "A265A50B-9A71-44BA-8A66-CB70EF2FA7D8",
+	internalName = "5750K",
+	title = "5750K",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 5750,
+			Tint = -12,
+			WhiteBalance = "Custom",
+		},
+		uuid = "BBD6FF2F-33D1-4F90-86CE-A71F0F7AA50F",
+	},
+	version = 0,
+}

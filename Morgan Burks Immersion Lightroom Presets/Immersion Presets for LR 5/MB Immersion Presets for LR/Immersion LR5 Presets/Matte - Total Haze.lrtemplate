@@ -1,0 +1,47 @@
+s = {
+	id = "8A35C146-F76B-41FF-9BAB-2FB1BE53E6D6",
+	internalName = "Matte - Total Haze",
+	title = "Matte - Total Haze",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ProcessVersion = "6.7",
+			ToneCurveName2012 = "Custom",
+			ToneCurvePV2012 = {
+				66,
+				96,
+				158,
+				136,
+				251,
+				169,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Red = {
+				0,
+				0,
+				255,
+				255,
+			},
+		},
+		uuid = "D061CFEE-297B-4406-8DEA-1625483B6EB3",
+	},
+	version = 0,
+}

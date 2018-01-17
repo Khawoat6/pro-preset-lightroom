@@ -1,0 +1,23 @@
+s = {
+	id = "4B4B11A3-F460-45F3-9033-4EDC5EC3E129",
+	internalName = "B&W-AddVignetteGrain {JPEG}",
+	title = "B&W-AddVignetteGrain {JPEG}",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 25,
+			GrainFrequency = 33,
+			GrainSize = 44,
+			PostCropVignetteAmount = -40,
+			PostCropVignetteFeather = 62,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 28,
+			PostCropVignetteRoundness = 12,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "29AEBC49-ECB8-4FDA-9D37-ECD208DC785C",
+	},
+	version = 0,
+}

@@ -1,0 +1,25 @@
+s = {
+	id = "A0305A18-F45C-4641-AA31-65D2DF42DB30",
+	internalName = "COL Negative Point Curve",
+	title = "Negative Effect",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ToneCurve = {
+				0,
+				255,
+				255,
+				0,
+			},
+		},
+		uuid = "90ECD371-7D7A-425B-92E0-3AD9501B9032",
+	},
+	version = 0,
+}

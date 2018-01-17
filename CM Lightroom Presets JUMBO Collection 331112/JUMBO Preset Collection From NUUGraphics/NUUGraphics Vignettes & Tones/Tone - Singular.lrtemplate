@@ -1,0 +1,19 @@
+s = {
+	id = "1AB446BC-05DB-47BD-B986-A305870D18A0",
+	internalName = "Tone | Singular",
+	title = "Tone | Singular",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 13,
+			SplitToningHighlightSaturation = 49,
+			SplitToningShadowHue = 236,
+			SplitToningShadowSaturation = 56,
+		},
+		uuid = "ED84BC34-D421-4E85-8FE6-0C5AAA0B4D30",
+	},
+	version = 0,
+}

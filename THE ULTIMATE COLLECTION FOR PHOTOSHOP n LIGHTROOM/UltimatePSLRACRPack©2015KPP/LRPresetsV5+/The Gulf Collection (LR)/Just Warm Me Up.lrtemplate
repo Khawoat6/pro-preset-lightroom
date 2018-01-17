@@ -1,0 +1,23 @@
+s = {
+	id = "6324365B-D34C-4FC4-BB12-C0D9B4915B1D",
+	internalName = "Just Warm Me Up 3",
+	title = "Just Warm Me Up 3",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			ColorNoiseReductionSmoothness = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 0,
+			ProcessVersion = "6.7",
+			Temperature = 9914,
+			Tint = 17,
+			WhiteBalance = "Custom",
+		},
+		uuid = "211FF81B-E34E-4EE8-8554-30387A00B81B",
+	},
+	version = 0,
+}

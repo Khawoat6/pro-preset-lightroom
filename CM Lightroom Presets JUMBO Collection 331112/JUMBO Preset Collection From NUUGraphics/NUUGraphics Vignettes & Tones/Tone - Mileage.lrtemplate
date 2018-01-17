@@ -1,0 +1,19 @@
+s = {
+	id = "A8EC0358-653F-42DF-930F-251407C4461B",
+	internalName = "Tone | Mileage",
+	title = "Tone | Mileage",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = -33,
+			SplitToningHighlightHue = 64,
+			SplitToningHighlightSaturation = 100,
+			SplitToningShadowHue = 261,
+			SplitToningShadowSaturation = 29,
+		},
+		uuid = "AE87A69A-EC9C-492A-8AC3-B5CE6DEBA689",
+	},
+	version = 0,
+}

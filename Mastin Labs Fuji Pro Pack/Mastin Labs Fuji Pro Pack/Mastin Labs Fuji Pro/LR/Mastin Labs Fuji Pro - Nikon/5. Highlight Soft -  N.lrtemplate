@@ -1,0 +1,18 @@
+s = {
+	id = "F2A5BC31-F5AF-4BA1-B333-B3CD6D92B17B",
+	internalName = "5. Highlight Soft -  N",
+	title = "5. Highlight Soft -  N",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 82,
+			Contrast2012 = 89,
+			Highlights2012 = -90,
+			ProcessVersion = "6.7",
+			Shadows2012 = 1,
+			Whites2012 = -88,
+		},
+		uuid = "FA6C44BF-5602-4EEA-B314-618C38455D8A",
+	},
+	version = 0,
+}

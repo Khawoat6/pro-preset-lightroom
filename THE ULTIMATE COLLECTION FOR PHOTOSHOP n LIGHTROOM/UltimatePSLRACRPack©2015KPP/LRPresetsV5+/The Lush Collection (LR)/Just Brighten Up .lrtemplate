@@ -1,0 +1,19 @@
+s = {
+	id = "C3DE4A41-79DF-44BA-81B0-632437583BD7",
+	internalName = "Just Brighten Up 2",
+	title = "Just Brighten Up 2",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 12,
+			Contrast2012 = 0,
+			Exposure2012 = 0.45,
+			Highlights2012 = -25,
+			ProcessVersion = "6.7",
+			Shadows2012 = 62,
+			Whites2012 = 13,
+		},
+		uuid = "43235ECA-3C30-4A15-95ED-B136A37F457F",
+	},
+	version = 0,
+}

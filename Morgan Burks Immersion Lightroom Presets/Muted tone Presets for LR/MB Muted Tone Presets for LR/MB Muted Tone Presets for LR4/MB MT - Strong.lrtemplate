@@ -1,0 +1,14 @@
+s = {
+	id = "AA5336E6-65D2-4487-A03E-5F60DCE086F0",
+	internalName = "MB MT - Strong",
+	title = "MB MT - Strong",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 71,
+			ProcessVersion = "6.7",
+		},
+		uuid = "9650AEFD-980D-45C6-944E-3859F5C28873",
+	},
+	version = 0,
+}

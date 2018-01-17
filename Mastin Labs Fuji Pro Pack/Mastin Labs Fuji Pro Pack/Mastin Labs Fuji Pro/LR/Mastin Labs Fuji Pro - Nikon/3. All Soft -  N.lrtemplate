@@ -1,0 +1,18 @@
+s = {
+	id = "444940FE-AB7F-4370-93D2-DCBB800EBF2F",
+	internalName = "3. All Soft -  N",
+	title = "3. All Soft -  N",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 82,
+			Contrast2012 = 89,
+			Highlights2012 = -90,
+			ProcessVersion = "6.7",
+			Shadows2012 = 34,
+			Whites2012 = -88,
+		},
+		uuid = "2CE7A7B2-BC7E-48BD-BB54-5D1C53E5685A",
+	},
+	version = 0,
+}

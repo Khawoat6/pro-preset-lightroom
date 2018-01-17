@@ -1,0 +1,17 @@
+s = {
+	id = "C6D9C651-9BB7-4BE1-92B0-32490FA412B8",
+	internalName = "Pastels-AddGrain",
+	title = "Pastels-AddGrain {RAW}",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 69,
+			GrainFrequency = 59,
+			GrainSize = 25,
+			ProcessVersion = "6.7",
+		},
+		uuid = "6AE16821-F14E-416A-9EED-4BA0AC40C3CF",
+	},
+	version = 0,
+}

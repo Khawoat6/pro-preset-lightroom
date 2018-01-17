@@ -1,0 +1,16 @@
+s = {
+	id = "F87024CC-F639-4EEA-A03B-2837EEB226BB",
+	internalName = "4750K",
+	title = "4750K",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 4750,
+			Tint = -12,
+			WhiteBalance = "Custom",
+		},
+		uuid = "D9B1E25B-09D7-4A97-95FD-B0CD527C21BF",
+	},
+	version = 0,
+}

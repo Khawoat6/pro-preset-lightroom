@@ -1,0 +1,14 @@
+s = {
+	id = "922B2F15-35EE-4965-A07D-99A3A96C5820",
+	internalName = "Enhance - Highlight Brighten x2",
+	title = "Enhance - Highlight Brighten x2",
+	type = "Develop",
+	value = {
+		settings = {
+			Highlights2012 = 100,
+			ProcessVersion = "6.7",
+		},
+		uuid = "E22161F9-FB13-420B-8DE6-6D38516924FA",
+	},
+	version = 0,
+}

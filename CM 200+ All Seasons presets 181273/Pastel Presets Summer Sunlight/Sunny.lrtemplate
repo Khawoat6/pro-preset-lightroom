@@ -1,0 +1,48 @@
+s = {
+	id = "5AB22825-CCBD-4786-B75D-55ACBAFD92D5",
+	internalName = "Sunny",
+	title = "Sunny",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 15,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 53,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ProcessVersion = "6.7",
+			Temperature = 5500,
+			Tint = -8,
+			ToneCurveName2012 = "Linear",
+			ToneCurvePV2012 = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Red = {
+				0,
+				0,
+				255,
+				255,
+			},
+			WhiteBalance = "Custom",
+		},
+		uuid = "AF368957-6A87-4AB8-BC9C-ABE4F5F94DBA",
+	},
+	version = 0,
+}

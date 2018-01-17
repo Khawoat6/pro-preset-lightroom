@@ -1,0 +1,15 @@
+s = {
+	id = "8E6983CA-4CCB-4CFE-9725-724E48C09EF6",
+	internalName = "Skin Soft",
+	title = "Skin So Soft",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = -41,
+			ProcessVersion = "6.7",
+			Shadows2012 = 51,
+		},
+		uuid = "32358D31-9F04-4DA6-95DD-13F68D7FFCFD",
+	},
+	version = 0,
+}

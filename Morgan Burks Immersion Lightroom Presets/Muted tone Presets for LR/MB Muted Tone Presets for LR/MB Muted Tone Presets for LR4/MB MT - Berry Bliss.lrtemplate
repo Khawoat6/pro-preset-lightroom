@@ -1,0 +1,28 @@
+s = {
+	id = "C8CCC5A0-DE28-4EB8-8824-71773BFF9B57",
+	internalName = "MB MT - Berry Bliss",
+	title = "MB MT - Berry Bliss",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Adobe Standard",
+			EnableCalibration = true,
+			EnableSplitToning = true,
+			GreenHue = 0,
+			GreenSaturation = -31,
+			ProcessVersion = "6.7",
+			RedHue = -36,
+			RedSaturation = 21,
+			ShadowTint = 0,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 73,
+			SplitToningHighlightSaturation = 17,
+			SplitToningShadowHue = 249,
+			SplitToningShadowSaturation = 27,
+		},
+		uuid = "26F0923A-F511-4051-A581-0D13B972B074",
+	},
+	version = 0,
+}

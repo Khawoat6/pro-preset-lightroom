@@ -1,0 +1,20 @@
+s = {
+	id = "373BD2D4-7097-4856-AFE9-10EB16D58A08",
+	internalName = "Food-AddVignetteBlack",
+	title = "Food-AddVignetteBlack",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -42,
+			PostCropVignetteFeather = 65,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 41,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "8294356F-5F8A-497A-8076-9417677DEFEC",
+	},
+	version = 0,
+}

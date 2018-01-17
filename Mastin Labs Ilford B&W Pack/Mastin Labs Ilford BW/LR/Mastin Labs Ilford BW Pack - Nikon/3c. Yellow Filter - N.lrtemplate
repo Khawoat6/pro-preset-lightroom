@@ -1,0 +1,23 @@
+s = {
+	id = "72D61B2C-8378-47DC-9BEE-179A87CFF1CE",
+	internalName = "3c. Yellow Filter - N",
+	title = "3c. Yellow Filter - N",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			GrayMixerAqua = 13,
+			GrayMixerBlue = -12,
+			GrayMixerGreen = -15,
+			GrayMixerMagenta = 9,
+			GrayMixerOrange = 19,
+			GrayMixerPurple = 25,
+			GrayMixerRed = 33,
+			GrayMixerYellow = 73,
+			ProcessVersion = "6.7",
+		},
+		uuid = "D666966A-54D6-4B3F-B61D-A72CFC55DA15",
+	},
+	version = 0,
+}

@@ -1,0 +1,17 @@
+s = {
+	id = "CF51FB30-B80D-4078-A7BF-CBFECE906239",
+	internalName = "Film-AddGrain1",
+	title = "Film-AddGrain1 {RAW}",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 33,
+			GrainFrequency = 59,
+			GrainSize = 34,
+			ProcessVersion = "6.7",
+		},
+		uuid = "9475351B-0914-4ED1-9354-00318481F78D",
+	},
+	version = 0,
+}

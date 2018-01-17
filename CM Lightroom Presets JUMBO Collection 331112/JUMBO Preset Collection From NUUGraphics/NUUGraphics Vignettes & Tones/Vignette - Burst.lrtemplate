@@ -1,0 +1,23 @@
+s = {
+	id = "12E804F7-E90F-4A83-A93F-C3E502551136",
+	internalName = "Burst",
+	title = "Vignette | Burst",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			PostCropVignetteAmount = -29,
+			PostCropVignetteFeather = 100,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 49,
+			PostCropVignetteRoundness = 33,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "659E287B-4B9A-4AD8-8352-E1B53FF852A2",
+	},
+	version = 0,
+}

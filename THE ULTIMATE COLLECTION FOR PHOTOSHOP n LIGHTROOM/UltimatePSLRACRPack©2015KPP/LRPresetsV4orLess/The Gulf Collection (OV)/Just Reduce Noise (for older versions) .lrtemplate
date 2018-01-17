@@ -1,0 +1,32 @@
+s = {
+	id = "F32E6477-D6A3-4377-AFF1-77CD62056D25",
+	internalName = "Just Reduce Noise (for older versions) 2",
+	title = "Just Reduce Noise (for older versions) 2",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 17,
+			ColorNoiseReductionDetail = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 31,
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurveName = "Linear",
+		},
+		uuid = "50F2A871-60C0-45F4-988D-A8B93E57EFCD",
+	},
+	version = 0,
+}

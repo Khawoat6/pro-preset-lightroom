@@ -1,0 +1,19 @@
+s = {
+	id = "04D17668-3189-4C70-84EA-B150A973ED14",
+	internalName = "ST-YellowHigh",
+	title = "ST-YellowHigh",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 53,
+			SplitToningHighlightSaturation = 65,
+			SplitToningShadowHue = 77,
+			SplitToningShadowSaturation = 27,
+		},
+		uuid = "F12CCD54-3E85-4B70-B73F-53C493630040",
+	},
+	version = 0,
+}

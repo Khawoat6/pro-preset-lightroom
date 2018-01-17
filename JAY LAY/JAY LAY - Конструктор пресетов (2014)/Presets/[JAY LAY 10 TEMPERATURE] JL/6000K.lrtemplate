@@ -1,0 +1,16 @@
+s = {
+	id = "A92A9292-21B5-437A-BAAA-C211BA87D91B",
+	internalName = "6000K",
+	title = "6000K",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 5750,
+			Tint = -12,
+			WhiteBalance = "Custom",
+		},
+		uuid = "DE11E18C-457D-48FC-96E0-D7C5E4F3EA6F",
+	},
+	version = 0,
+}

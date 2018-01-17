@@ -1,0 +1,19 @@
+s = {
+	id = "01F7A598-CBC6-41F3-815A-98DAA6D35D8E",
+	internalName = "ColorMustard",
+	title = "ColorMustard",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 27,
+			SplitToningHighlightHue = 51,
+			SplitToningHighlightSaturation = 43,
+			SplitToningShadowHue = 199,
+			SplitToningShadowSaturation = 27,
+		},
+		uuid = "BB4C8641-4925-4323-8066-4961A76E4F7B",
+	},
+	version = 0,
+}

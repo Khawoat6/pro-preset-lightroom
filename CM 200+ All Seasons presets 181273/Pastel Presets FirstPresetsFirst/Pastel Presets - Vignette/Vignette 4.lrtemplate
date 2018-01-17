@@ -1,0 +1,23 @@
+s = {
+	id = "41078C57-51E1-4F53-AE78-81D694EC03DB",
+	internalName = "Vignette 4",
+	title = "Vignette 4",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			PostCropVignetteAmount = -42,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 14,
+			PostCropVignetteRoundness = -24,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "2F3E6843-9FFE-419F-B426-6DA8A0C63466",
+	},
+	version = 0,
+}

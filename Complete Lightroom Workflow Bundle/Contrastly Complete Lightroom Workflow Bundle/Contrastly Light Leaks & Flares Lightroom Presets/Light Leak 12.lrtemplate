@@ -1,0 +1,16 @@
+s = {
+	id = "92A63A7A-211B-4848-93DF-7D30286D762C",
+	internalName = "Light Leak 12",
+	title = "Light Leak 12",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableCircularGradientBasedCorrections = true,
+			EnableGradientBasedCorrections = true,
+			ProcessVersion = "6.7",
+			orientation = "AB",
+		},
+		uuid = "610B53AC-2A5E-4962-9FD3-A1A625D4D278",
+	},
+	version = 0,
+}

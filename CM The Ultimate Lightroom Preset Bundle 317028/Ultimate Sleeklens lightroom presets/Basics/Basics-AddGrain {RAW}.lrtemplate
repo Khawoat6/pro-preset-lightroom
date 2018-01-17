@@ -1,0 +1,17 @@
+s = {
+	id = "C4F90850-69F7-42C0-8EE9-30AB78A19D2A",
+	internalName = "Basics-AddGrain",
+	title = "Basics-AddGrain {RAW}",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 75,
+			GrainFrequency = 71,
+			GrainSize = 36,
+			ProcessVersion = "6.7",
+		},
+		uuid = "24B7E70A-568D-41A5-A540-C786936DF2D6",
+	},
+	version = 0,
+}

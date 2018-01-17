@@ -1,0 +1,17 @@
+s = {
+	id = "AEB0CDD7-32DF-4A6A-A486-1365121CE111",
+	internalName = "Basics-AddGrain {JPEG}",
+	title = "Basics-AddGrain {JPEG}",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 18,
+			GrainFrequency = 70,
+			GrainSize = 23,
+			ProcessVersion = "6.7",
+		},
+		uuid = "B16BC4FF-88BE-4C05-8404-3BBF9512E84D",
+	},
+	version = 0,
+}

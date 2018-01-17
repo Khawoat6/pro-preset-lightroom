@@ -1,0 +1,14 @@
+s = {
+	id = "308E7CBC-08BD-4947-8936-D3C873C031C6",
+	internalName = "Enhance - Highlight Darken",
+	title = "Enhance - Highlight Darken",
+	type = "Develop",
+	value = {
+		settings = {
+			Highlights2012 = -50,
+			ProcessVersion = "6.7",
+		},
+		uuid = "241B8205-4A01-44B3-8B10-BE48CE042345",
+	},
+	version = 0,
+}

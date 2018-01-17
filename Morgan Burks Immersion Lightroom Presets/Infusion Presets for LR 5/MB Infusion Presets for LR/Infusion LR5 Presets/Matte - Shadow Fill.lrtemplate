@@ -1,0 +1,45 @@
+s = {
+	id = "4441BD9A-AD90-42A0-B041-AFDF15FA7FC4",
+	internalName = "Matte - Shadow Fill",
+	title = "Matte - Shadow Fill",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ProcessVersion = "6.7",
+			ToneCurveName2012 = "Custom",
+			ToneCurvePV2012 = {
+				35,
+				36,
+				255,
+				255,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Red = {
+				0,
+				0,
+				255,
+				255,
+			},
+		},
+		uuid = "26F73DD9-FD60-4EC3-B5E7-59F62D4EAB25",
+	},
+	version = 0,
+}

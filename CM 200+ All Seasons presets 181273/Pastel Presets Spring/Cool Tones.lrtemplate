@@ -1,0 +1,16 @@
+s = {
+	id = "DF51FA03-1DDC-4F94-B4A4-ACB4D59B2D86",
+	internalName = "Cool Tones",
+	title = "Cool Tones",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 4000,
+			Tint = -10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "1EDF73DE-252E-4220-B2E0-516F8B62F611",
+	},
+	version = 0,
+}

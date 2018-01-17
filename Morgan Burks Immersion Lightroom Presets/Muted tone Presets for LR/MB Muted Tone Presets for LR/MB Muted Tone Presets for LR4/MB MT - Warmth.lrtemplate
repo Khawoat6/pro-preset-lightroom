@@ -1,0 +1,16 @@
+s = {
+	id = "7A4D3569-8FD3-4D5E-9AC9-71B45445D9F9",
+	internalName = "MB MT - Warmth",
+	title = "MB MT - Warmth",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			IncrementalTemperature = 14,
+			IncrementalTint = 5,
+			WhiteBalance = "Custom",
+		},
+		uuid = "F163B1A6-FBC4-444F-81D5-C8DDBB9973DE",
+	},
+	version = 0,
+}

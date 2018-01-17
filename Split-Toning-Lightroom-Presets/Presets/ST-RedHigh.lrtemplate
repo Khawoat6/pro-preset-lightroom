@@ -1,0 +1,19 @@
+s = {
+	id = "8AF264CC-6485-4B48-BB81-B589F0023B95",
+	internalName = "ST-RedHigh",
+	title = "ST-RedHigh",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 65,
+			SplitToningShadowHue = 0,
+			SplitToningShadowSaturation = 0,
+		},
+		uuid = "C708B368-9C89-4647-AE1A-70B0039E046C",
+	},
+	version = 0,
+}

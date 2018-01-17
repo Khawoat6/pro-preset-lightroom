@@ -1,0 +1,14 @@
+s = {
+	id = "A6259E28-B17A-4AB1-8EBC-0360E24AC72E",
+	internalName = "(Baby Work) Lighten III",
+	title = "(Baby Work) Lighten III",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoExposure = false,
+			Exposure = 0.78,
+		},
+		uuid = "5940B34D-D1D8-4DA8-9B58-7B49B49AAB31",
+	},
+	version = 0,
+}

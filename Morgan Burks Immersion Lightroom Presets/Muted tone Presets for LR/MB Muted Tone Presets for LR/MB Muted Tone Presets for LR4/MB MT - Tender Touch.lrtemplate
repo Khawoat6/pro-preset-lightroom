@@ -1,0 +1,19 @@
+s = {
+	id = "35D72313-D788-4AFA-8211-EB69884E3073",
+	internalName = "MB MT - Tender Touch",
+	title = "MB MT - Tender Touch",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			EnableSplitToning = true,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 56,
+			SplitToningHighlightSaturation = 8,
+			SplitToningShadowHue = 227,
+			SplitToningShadowSaturation = 12,
+		},
+		uuid = "4BBAF875-805D-4D02-B90C-7EB0C284111B",
+	},
+	version = 0,
+}

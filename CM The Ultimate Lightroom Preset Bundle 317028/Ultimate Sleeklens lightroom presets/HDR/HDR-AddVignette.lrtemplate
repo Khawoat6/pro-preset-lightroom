@@ -1,0 +1,20 @@
+s = {
+	id = "C7959236-C9E4-4623-8951-9D6E2FA1A343",
+	internalName = "HDR-AddVignette",
+	title = "HDR-AddVignette",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -28,
+			PostCropVignetteFeather = 72,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 30,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "67B64CE0-B90C-4FE1-804C-51EFCE25196A",
+	},
+	version = 0,
+}

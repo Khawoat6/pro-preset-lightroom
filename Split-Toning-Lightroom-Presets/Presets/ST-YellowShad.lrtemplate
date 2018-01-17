@@ -1,0 +1,19 @@
+s = {
+	id = "C3C5490D-378F-4BE4-9AB4-DDEBDE3F1731",
+	internalName = "ST-YellowShad",
+	title = "ST-YellowShad",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 114,
+			SplitToningHighlightSaturation = 33,
+			SplitToningShadowHue = 50,
+			SplitToningShadowSaturation = 54,
+		},
+		uuid = "C66E78DE-21D3-4D8B-A1C5-258447B973BB",
+	},
+	version = 0,
+}

@@ -1,0 +1,19 @@
+s = {
+	id = "EB45172C-AE23-4494-BAF8-E6914FEE24CE",
+	internalName = "07",
+	title = "07",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 59,
+			Contrast2012 = 0,
+			Exposure2012 = 0,
+			Highlights2012 = -20,
+			ProcessVersion = "6.7",
+			Shadows2012 = 25,
+			Whites2012 = -10,
+		},
+		uuid = "0752FBC7-B22D-4A03-A661-596045556D8C",
+	},
+	version = 0,
+}

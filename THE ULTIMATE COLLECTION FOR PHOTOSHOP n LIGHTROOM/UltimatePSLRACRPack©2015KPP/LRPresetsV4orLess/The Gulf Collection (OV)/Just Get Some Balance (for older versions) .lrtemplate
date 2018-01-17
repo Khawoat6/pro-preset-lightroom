@@ -1,0 +1,14 @@
+s = {
+	id = "C23F76A1-10B5-42B9-B405-E3621B056EDD",
+	internalName = "Just Get Some Balance (for older versions) 2",
+	title = "Just Get Some Balance (for older versions) 2",
+	type = "Develop",
+	value = {
+		settings = {
+			FillLight = 36,
+			HighlightRecovery = 59,
+		},
+		uuid = "86D326DF-D199-4411-B765-6C5E7F43FDAA",
+	},
+	version = 0,
+}

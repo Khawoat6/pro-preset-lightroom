@@ -1,0 +1,18 @@
+s = {
+	id = "1352FAAD-026C-4CEE-9E00-2838EFC534AF",
+	internalName = "2 Delicious Indigo Tone",
+	title = "Haz Tap",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = 100,
+			SplitToningHighlightHue = 278,
+			SplitToningHighlightSaturation = 6,
+			SplitToningShadowHue = 283,
+			SplitToningShadowSaturation = 84,
+		},
+		uuid = "61A83D2F-34A5-4C14-8312-5FA735AB4037",
+	},
+	version = 0,
+}

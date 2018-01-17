@@ -1,0 +1,20 @@
+s = {
+	id = "DD707FC2-2C6B-40F0-8928-323C0DCD6BC5",
+	internalName = "RESET",
+	title = "RESET",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = 0,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "17056E6B-30CE-451C-ABA3-65830A5F1542",
+	},
+	version = 0,
+}

@@ -1,0 +1,19 @@
+s = {
+	id = "EB65AC14-72F9-475D-84B2-9A83E7B7F1E3",
+	internalName = "POST Processing - Quick HDR",
+	title = "POST Processing - Quick HDR",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 100,
+			EnableDetail = true,
+			ProcessVersion = "6.7",
+			SharpenDetail = 7,
+			SharpenEdgeMasking = 64,
+			SharpenRadius = 1.9,
+			Sharpness = 59,
+		},
+		uuid = "1CEA5327-FB5D-42BB-8176-0D6D66A14EC6",
+	},
+	version = 0,
+}

@@ -1,0 +1,16 @@
+s = {
+	id = "9341AAE3-3BD6-49B5-8346-DFD8C62E6A43",
+	internalName = "White balance4",
+	title = "White balance4",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 5500,
+			Tint = -4,
+			WhiteBalance = "Custom",
+		},
+		uuid = "A3571907-C828-44C7-AF14-4267F7F57C25",
+	},
+	version = 0,
+}

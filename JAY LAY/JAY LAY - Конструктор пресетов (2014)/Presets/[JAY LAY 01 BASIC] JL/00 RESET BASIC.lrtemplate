@@ -1,0 +1,19 @@
+s = {
+	id = "87E1A8ED-9FA5-4288-9553-37D14EC818FF",
+	internalName = "00 RESET BASIC",
+	title = "00 RESET BASIC",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 0,
+			Contrast2012 = 0,
+			Exposure2012 = 0,
+			Highlights2012 = 0,
+			ProcessVersion = "6.7",
+			Shadows2012 = 0,
+			Whites2012 = 0,
+		},
+		uuid = "114F942F-AF75-4CB3-BD86-E744E4288FFE",
+	},
+	version = 0,
+}

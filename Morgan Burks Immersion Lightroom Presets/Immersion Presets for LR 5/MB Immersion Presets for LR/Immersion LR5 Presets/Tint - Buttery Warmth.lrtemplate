@@ -1,0 +1,16 @@
+s = {
+	id = "34D6F249-C900-49E0-9B34-F08AE411364E",
+	internalName = "Tint - Buttery Warmth",
+	title = "Tint - Buttery Warmth",
+	type = "Develop",
+	value = {
+		settings = {
+			IncrementalTemperature = 10,
+			IncrementalTint = 0,
+			ProcessVersion = "6.7",
+			WhiteBalance = "Custom",
+		},
+		uuid = "D757DE8C-B152-4181-B2A3-3BDE279E5997",
+	},
+	version = 0,
+}

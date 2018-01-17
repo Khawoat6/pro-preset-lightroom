@@ -1,0 +1,47 @@
+s = {
+	id = "3D4502DF-5DD6-4657-B19B-9DB752846F80",
+	internalName = "Pasttime",
+	title = "Matte - Pasttime",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ProcessVersion = "6.7",
+			ToneCurveName2012 = "Custom",
+			ToneCurvePV2012 = {
+				35,
+				41,
+				142,
+				135,
+				255,
+				214,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Red = {
+				0,
+				0,
+				255,
+				255,
+			},
+		},
+		uuid = "E22E4F4A-8F9D-4A7C-A2B5-75569FC4E741",
+	},
+	version = 0,
+}

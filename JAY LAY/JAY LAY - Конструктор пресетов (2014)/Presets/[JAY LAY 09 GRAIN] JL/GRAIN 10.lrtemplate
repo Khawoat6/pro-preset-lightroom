@@ -1,0 +1,17 @@
+s = {
+	id = "01B0E5C7-04FE-4E77-BEFF-1823664D5825",
+	internalName = "GRAIN 10",
+	title = "GRAIN 10",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 10,
+			GrainFrequency = 40,
+			GrainSize = 25,
+			ProcessVersion = "6.7",
+		},
+		uuid = "058380B1-2C88-4172-9DEC-647DF1D6A4AD",
+	},
+	version = 0,
+}

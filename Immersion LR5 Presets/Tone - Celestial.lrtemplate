@@ -1,0 +1,19 @@
+s = {
+	id = "2B49AAB6-ED68-4F2F-B212-D9996850DFFD",
+	internalName = "Tone - Celestial",
+	title = "Tone - Celestial",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 197,
+			SplitToningHighlightSaturation = 15,
+			SplitToningShadowHue = 21,
+			SplitToningShadowSaturation = 15,
+		},
+		uuid = "7E17803B-C88B-457C-BBA6-BA8D83799A39",
+	},
+	version = 0,
+}

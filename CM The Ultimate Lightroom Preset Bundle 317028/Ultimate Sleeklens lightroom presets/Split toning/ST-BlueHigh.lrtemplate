@@ -1,0 +1,19 @@
+s = {
+	id = "CB10C644-4229-4528-9391-7DEADE4162BE",
+	internalName = "ST-BlueHigh",
+	title = "ST-BlueHigh",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 202,
+			SplitToningHighlightSaturation = 65,
+			SplitToningShadowHue = 166,
+			SplitToningShadowSaturation = 27,
+		},
+		uuid = "404A3A31-AADF-4452-8E80-43C917066E1B",
+	},
+	version = 0,
+}

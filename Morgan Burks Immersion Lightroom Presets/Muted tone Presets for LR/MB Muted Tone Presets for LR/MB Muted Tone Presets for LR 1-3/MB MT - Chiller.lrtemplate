@@ -1,0 +1,19 @@
+s = {
+	id = "31F86ED4-393F-4991-993F-969EB0319929",
+	internalName = "MB MT - Chiller",
+	title = "MB MT - Chiller",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			EnableSplitToning = true,
+			SplitToningBalance = 60,
+			SplitToningHighlightHue = 210,
+			SplitToningHighlightSaturation = 6,
+			SplitToningShadowHue = 266,
+			SplitToningShadowSaturation = 21,
+		},
+		uuid = "86764445-78F0-4E27-AE1A-07F22386E29D",
+	},
+	version = 0,
+}

@@ -1,0 +1,15 @@
+s = {
+	id = "7737D6DF-CC01-4895-B6C1-D60F437B7BCD",
+	internalName = "ColorVibrance3",
+	title = "ColorVibrance3",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Vibrance = 60,
+		},
+		uuid = "3D6B5DDA-D443-4378-B31A-76F09669D41C",
+	},
+	version = 0,
+}

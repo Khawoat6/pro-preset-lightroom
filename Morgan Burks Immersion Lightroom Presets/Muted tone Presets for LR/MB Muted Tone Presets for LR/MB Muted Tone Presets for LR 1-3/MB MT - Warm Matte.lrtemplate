@@ -1,0 +1,30 @@
+s = {
+	id = "82E17ACD-9C70-461D-BDA5-4B3AEF93A020",
+	internalName = "MB MT - Warm Matte",
+	title = "MB MT - Warm Matte",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			IncrementalTemperature = 10,
+			IncrementalTint = 17,
+			ParametricDarks = -7,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = -55,
+			ParametricLights = 29,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 38,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurveName = "Linear",
+			WhiteBalance = "Custom",
+		},
+		uuid = "44EA09A6-21D3-439E-A11C-EB9783AAF907",
+	},
+	version = 0,
+}

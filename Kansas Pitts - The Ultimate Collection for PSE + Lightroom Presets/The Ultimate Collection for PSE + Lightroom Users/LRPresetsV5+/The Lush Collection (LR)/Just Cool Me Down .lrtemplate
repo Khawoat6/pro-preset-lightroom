@@ -1,0 +1,16 @@
+s = {
+	id = "92408AEC-D8D8-4DF2-9C9F-6B220D2F8C17",
+	internalName = "Just Cool Me Down 2",
+	title = "Just Cool Me Down 2",
+	type = "Develop",
+	value = {
+		settings = {
+			IncrementalTemperature = 21,
+			IncrementalTint = -10,
+			ProcessVersion = "6.7",
+			WhiteBalance = "Custom",
+		},
+		uuid = "07232ADF-DBD5-457C-95F5-FC47C4EF7241",
+	},
+	version = 0,
+}

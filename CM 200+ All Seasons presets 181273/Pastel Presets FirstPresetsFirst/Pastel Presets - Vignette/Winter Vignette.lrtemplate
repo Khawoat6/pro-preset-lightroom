@@ -1,0 +1,20 @@
+s = {
+	id = "59161B56-76BD-45A0-8C09-A33700E7EECC",
+	internalName = "Winter Vignette",
+	title = "Winter Vignette",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = 5,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 31,
+			PostCropVignetteRoundness = -22,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "79609644-03AD-4EDD-9AD1-BEB8426E0B57",
+	},
+	version = 0,
+}

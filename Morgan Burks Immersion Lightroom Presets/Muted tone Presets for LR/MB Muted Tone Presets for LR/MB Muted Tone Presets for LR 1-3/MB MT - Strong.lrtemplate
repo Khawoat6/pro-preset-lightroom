@@ -1,0 +1,14 @@
+s = {
+	id = "F00E4067-4AD8-4A01-B461-6DD9C8B33192",
+	internalName = "MB MT - Strong",
+	title = "MB MT - Strong",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity = 71,
+			ConvertToGrayscale = false,
+		},
+		uuid = "45459D0C-0990-464B-9A74-518E968454BA",
+	},
+	version = 0,
+}

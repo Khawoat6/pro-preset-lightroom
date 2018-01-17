@@ -1,0 +1,22 @@
+s = {
+	id = "8BD6D09B-5CA7-489E-8A44-0071D6DB3A43",
+	internalName = "Just Pop the Contrast (for older versions)",
+	title = "Just Pop the Contrast (for older versions)",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			Brightness = 0,
+			Contrast = 0,
+			Exposure = 0,
+			FillLight = 0,
+			HighlightRecovery = 0,
+			Shadows = 0,
+		},
+		uuid = "F264CF4A-366F-47BA-9D2F-8C7669B5B30E",
+	},
+	version = 0,
+}

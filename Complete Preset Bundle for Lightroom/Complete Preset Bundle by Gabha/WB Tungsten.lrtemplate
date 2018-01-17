@@ -1,0 +1,16 @@
+s = {
+	id = "76F6BC3F-8DEF-4920-B2A7-3C4175D30309",
+	internalName = "WB Tungsten",
+	title = "WB Tungsten",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 2850,
+			Tint = 0,
+			WhiteBalance = "Tungsten",
+		},
+		uuid = "BF2E56B9-5A95-4D14-8BA7-CB8816EAE7EC",
+	},
+	version = 0,
+}

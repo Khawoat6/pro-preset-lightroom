@@ -1,0 +1,20 @@
+s = {
+	id = "9A39D3A6-D5FA-4E64-95AA-EB96BA84D3A1",
+	internalName = "Basics-AddVignette",
+	title = "Basics-AddVignette",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -35,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 45,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "5B51F556-D14B-4021-BEE6-27F2288EA012",
+	},
+	version = 0,
+}

@@ -1,0 +1,16 @@
+s = {
+	id = "34B99376-68A8-4994-A8D1-4E3F22B39DF9",
+	internalName = "02 sat",
+	title = "02 sat",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Saturation = -21,
+			Vibrance = 19,
+		},
+		uuid = "3AD2D735-75C2-44AA-9B6F-F63F6A8C8316",
+	},
+	version = 0,
+}

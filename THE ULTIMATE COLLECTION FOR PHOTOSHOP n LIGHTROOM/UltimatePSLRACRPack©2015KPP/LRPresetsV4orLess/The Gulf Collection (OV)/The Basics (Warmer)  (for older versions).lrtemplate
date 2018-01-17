@@ -1,0 +1,25 @@
+s = {
+	id = "4BAD06B2-0DCB-47DC-B3AC-C4B879D45328",
+	internalName = "The Basics (Warmer)  (for older versions)",
+	title = "The Basics (Warmer)  (for older versions)",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			Brightness = 6,
+			Contrast = 11,
+			Exposure = 0.5,
+			FillLight = 22,
+			HighlightRecovery = 20,
+			Shadows = 6,
+			Temperature = 8954,
+			Tint = 16,
+			WhiteBalance = "Custom",
+		},
+		uuid = "6471FAFE-0A3F-4C55-9A38-99AAD7B7C236",
+	},
+	version = 0,
+}

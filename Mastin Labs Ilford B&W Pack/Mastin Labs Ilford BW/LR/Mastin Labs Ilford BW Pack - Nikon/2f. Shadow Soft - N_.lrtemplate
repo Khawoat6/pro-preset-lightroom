@@ -1,0 +1,18 @@
+s = {
+	id = "79EE5799-F513-4F12-AE8E-793084B488BC",
+	internalName = "2f. Shadow Soft - N ",
+	title = "2f. Shadow Soft - N ",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 52,
+			Contrast2012 = 87,
+			Highlights2012 = -33,
+			ProcessVersion = "6.7",
+			Shadows2012 = 54,
+			Whites2012 = 6,
+		},
+		uuid = "8ECA2791-6746-4233-9DA6-95D849C3424B",
+	},
+	version = 0,
+}

@@ -1,0 +1,15 @@
+s = {
+	id = "C:\\Users\\Gary\\AppData\\Roaming\\Adobe\\Lightroom\\Develop Presets\\ARTISTIC 2\\WOW-a_WB-Cloudy.lrtemplate",
+	internalName = "WOW-a_WB-Cloudy",
+	title = "ARTISTIC2-Summer Time",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 6500,
+			Tint = 10,
+			WhiteBalance = "Cloudy",
+		},
+		uuid = "D33B3936-0E48-496F-8E09-31C3C63971B7",
+	},
+	version = 0,
+}

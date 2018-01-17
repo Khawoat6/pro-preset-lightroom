@@ -1,0 +1,22 @@
+s = {
+	id = "97271F30-B1D7-4134-896C-3DC4263C437A",
+	internalName = "03 CALIBRATION",
+	title = "03 CALIBRATION",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = -15,
+			BlueSaturation = -83,
+			CameraProfile = "Fuji Astia 100F - C",
+			EnableCalibration = true,
+			GreenHue = 75,
+			GreenSaturation = 83,
+			ProcessVersion = "6.7",
+			RedHue = 68,
+			RedSaturation = -68,
+			ShadowTint = 31,
+		},
+		uuid = "FE423697-82F8-4733-97C2-7F8D8EA55A6C",
+	},
+	version = 0,
+}

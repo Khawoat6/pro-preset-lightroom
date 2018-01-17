@@ -1,0 +1,48 @@
+s = {
+	id = "B0B886FC-728E-43AC-B5B4-B99087C72B8B",
+	internalName = "Infinite",
+	title = "Matte - Brighten",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = 10,
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ProcessVersion = "6.7",
+			ToneCurveName2012 = "Custom",
+			ToneCurvePV2012 = {
+				15,
+				32,
+				162,
+				185,
+				255,
+				216,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Red = {
+				0,
+				0,
+				255,
+				255,
+			},
+		},
+		uuid = "1B433248-41F3-41F6-9E41-63B97F0D367E",
+	},
+	version = 0,
+}

@@ -1,0 +1,19 @@
+s = {
+	id = "B9511D41-AD5A-4C91-8584-678F3F7DBAE2",
+	internalName = "02 YELLOW & BLUE",
+	title = "02 YELLOW & BLUE",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 79,
+			SplitToningHighlightHue = 46,
+			SplitToningHighlightSaturation = 15,
+			SplitToningShadowHue = 226,
+			SplitToningShadowSaturation = 10,
+		},
+		uuid = "01129BF1-B518-4DE8-97F5-21C42B6F7966",
+	},
+	version = 0,
+}

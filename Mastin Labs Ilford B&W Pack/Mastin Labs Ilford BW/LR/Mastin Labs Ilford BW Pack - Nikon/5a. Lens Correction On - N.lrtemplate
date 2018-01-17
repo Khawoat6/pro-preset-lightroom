@@ -1,0 +1,16 @@
+s = {
+	id = "EE5177F5-BBFD-45DB-BD52-ACF76C450734",
+	internalName = "5a. Lens Correction On - N",
+	title = "5a. Lens Correction On - N",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			LensProfileEnable = 1,
+			LensProfileSetup = "Auto",
+			ProcessVersion = "6.7",
+		},
+		uuid = "EAD9B1AE-8A04-475C-90D2-0CEB7285854F",
+	},
+	version = 0,
+}

@@ -1,0 +1,19 @@
+s = {
+	id = "81F87FE1-6728-49DE-8EB0-35B87FEB7F1E",
+	internalName = "Tone | Thought",
+	title = "Tone | Thought",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = -100,
+			SplitToningHighlightHue = 180,
+			SplitToningHighlightSaturation = 61,
+			SplitToningShadowHue = 69,
+			SplitToningShadowSaturation = 0,
+		},
+		uuid = "083A6058-E86E-47E4-903F-632DFFFD6309",
+	},
+	version = 0,
+}

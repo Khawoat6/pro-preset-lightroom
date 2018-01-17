@@ -1,0 +1,15 @@
+s = {
+	id = "9E65628B-CA3B-405A-9782-CCBEB08028F1",
+	internalName = "Just Brighten Up (for older versions) 2",
+	title = "Just Brighten Up (for older versions) 2",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoExposure = false,
+			Exposure = 0.4,
+			FillLight = 47,
+		},
+		uuid = "D30A1340-0FEA-4656-AD7D-B82A1253A691",
+	},
+	version = 0,
+}

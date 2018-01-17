@@ -1,0 +1,15 @@
+s = {
+	id = "A350F707-E0BE-4C5A-9798-B3B4FCC6AFB5",
+	internalName = "MB MT - Darken",
+	title = "MB MT - Darken",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = -0.19,
+			ProcessVersion = "6.7",
+			Shadows2012 = 4,
+		},
+		uuid = "E9EBBFE9-CCEA-441C-9085-730767B6D360",
+	},
+	version = 0,
+}

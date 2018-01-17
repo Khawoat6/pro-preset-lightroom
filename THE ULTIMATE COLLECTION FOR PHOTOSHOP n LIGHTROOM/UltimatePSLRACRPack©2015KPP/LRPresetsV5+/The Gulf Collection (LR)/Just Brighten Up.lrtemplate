@@ -1,0 +1,19 @@
+s = {
+	id = "4AD18D88-80C7-4957-907B-96780F51BBC9",
+	internalName = "Just Brighten Up 3",
+	title = "Just Brighten Up 3",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 12,
+			Contrast2012 = 0,
+			Exposure2012 = 0.45,
+			Highlights2012 = -25,
+			ProcessVersion = "6.7",
+			Shadows2012 = 62,
+			Whites2012 = 13,
+		},
+		uuid = "E0AE40C7-3878-4C1C-8055-834DA6D79A4E",
+	},
+	version = 0,
+}

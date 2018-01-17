@@ -1,0 +1,16 @@
+s = {
+	id = "D4E59BC0-D3AB-4982-9058-0BDFC3882B50",
+	internalName = "5250K",
+	title = "5250K",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 5250,
+			Tint = -12,
+			WhiteBalance = "Custom",
+		},
+		uuid = "85A175A8-4285-4233-BC64-7858511928A5",
+	},
+	version = 0,
+}

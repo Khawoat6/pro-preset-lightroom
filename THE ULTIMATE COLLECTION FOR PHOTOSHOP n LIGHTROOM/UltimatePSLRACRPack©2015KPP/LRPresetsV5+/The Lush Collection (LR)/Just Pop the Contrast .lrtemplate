@@ -1,0 +1,16 @@
+s = {
+	id = "124F32B8-5224-426B-B100-A4DB5F0D3315",
+	internalName = "Just Pop the Contrast 2",
+	title = "Just Pop the Contrast 2",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -7,
+			Contrast2012 = 23,
+			ProcessVersion = "6.7",
+			Whites2012 = 24,
+		},
+		uuid = "55538F3B-F44B-467D-BEB1-175BD647B5B1",
+	},
+	version = 0,
+}

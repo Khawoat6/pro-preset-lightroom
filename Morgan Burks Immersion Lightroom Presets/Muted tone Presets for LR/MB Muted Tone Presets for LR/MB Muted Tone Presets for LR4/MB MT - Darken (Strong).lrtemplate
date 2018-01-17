@@ -1,0 +1,15 @@
+s = {
+	id = "9ED906B2-E624-4897-B9BF-96D1B2BF466F",
+	internalName = "MB MT - Darken (Strong)",
+	title = "MB MT - Darken (Strong)",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = -0.76,
+			ProcessVersion = "6.7",
+			Shadows2012 = 12,
+		},
+		uuid = "B94A5FB5-253E-41A2-8CCA-4BB72652EAAA",
+	},
+	version = 0,
+}

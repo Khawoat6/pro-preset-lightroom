@@ -1,0 +1,29 @@
+s = {
+	id = "4365E765-DEE0-4552-B53B-15486137469A",
+	internalName = "MB MT - Print BW",
+	title = "MB MT - Print BW",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoShadows = false,
+			ConvertToGrayscale = true,
+			ParametricDarks = -40,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = -45,
+			ParametricLights = 17,
+			ParametricMidtoneSplit = 33,
+			ParametricShadowSplit = 13,
+			ParametricShadows = 100,
+			Shadows = 29,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurveName = "Linear",
+		},
+		uuid = "D9669DB6-241A-487D-B773-4C7DADB0B0EF",
+	},
+	version = 0,
+}

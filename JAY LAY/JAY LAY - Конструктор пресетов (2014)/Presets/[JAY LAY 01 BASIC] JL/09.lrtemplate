@@ -1,0 +1,19 @@
+s = {
+	id = "EEA28089-0390-49E8-99A1-FFE14C8BF8CA",
+	internalName = "09",
+	title = "09",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 25,
+			Contrast2012 = 0,
+			Exposure2012 = -0.68,
+			Highlights2012 = -100,
+			ProcessVersion = "6.7",
+			Shadows2012 = 15,
+			Whites2012 = -10,
+		},
+		uuid = "BFBB8E2B-4213-4C64-AE40-4379427E8021",
+	},
+	version = 0,
+}

@@ -1,0 +1,19 @@
+s = {
+	id = "8E7847B6-A51C-4BDB-83FC-1CFE99881A7F",
+	internalName = "Tone | Leaf",
+	title = "Tone | Palace",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 74,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 35,
+			SplitToningShadowHue = 176,
+			SplitToningShadowSaturation = 36,
+		},
+		uuid = "C860F323-0F87-4031-A813-5A799AA5FADC",
+	},
+	version = 0,
+}

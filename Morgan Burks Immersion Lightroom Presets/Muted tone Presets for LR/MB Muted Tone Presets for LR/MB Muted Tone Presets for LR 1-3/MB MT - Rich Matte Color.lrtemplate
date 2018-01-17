@@ -1,0 +1,28 @@
+s = {
+	id = "22F5E722-E0BA-4B14-ACDD-E8CEEC984061",
+	internalName = "MB MT - Rich Matte Color",
+	title = "MB MT - Rich Matte Color",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ParametricDarks = -17,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = -69,
+			ParametricLights = 24,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 100,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurveName = "Linear",
+			Vibrance = 45,
+		},
+		uuid = "878E25A8-484F-4D80-868C-8F1245F01119",
+	},
+	version = 0,
+}

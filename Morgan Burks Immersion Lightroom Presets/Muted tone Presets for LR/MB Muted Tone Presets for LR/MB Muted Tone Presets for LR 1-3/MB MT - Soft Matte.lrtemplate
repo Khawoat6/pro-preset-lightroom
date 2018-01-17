@@ -1,0 +1,27 @@
+s = {
+	id = "CECF0E04-EDE7-4874-AF2D-8C2DF64D6C50",
+	internalName = "MB MT - Soft Matte",
+	title = "MB MT - Soft Matte",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ParametricDarks = 21,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = -45,
+			ParametricLights = 10,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 100,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurveName = "Linear",
+		},
+		uuid = "2BFE2285-AE15-4B6D-8EF5-5FEBA637C4C5",
+	},
+	version = 0,
+}

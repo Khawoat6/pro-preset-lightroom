@@ -1,0 +1,19 @@
+s = {
+	id = "5D47E42B-68DE-4772-A896-87947E59B97D",
+	internalName = "ST-PurpleShad",
+	title = "ST-PurpleShad",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = -30,
+			SplitToningHighlightHue = 87,
+			SplitToningHighlightSaturation = 33,
+			SplitToningShadowHue = 260,
+			SplitToningShadowSaturation = 61,
+		},
+		uuid = "01F55803-7044-4EAA-B55D-A0C500B3F72D",
+	},
+	version = 0,
+}

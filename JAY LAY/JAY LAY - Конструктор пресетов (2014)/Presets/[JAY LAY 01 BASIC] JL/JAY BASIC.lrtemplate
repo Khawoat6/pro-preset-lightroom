@@ -1,0 +1,19 @@
+s = {
+	id = "84DB1362-D364-43D3-9245-01786497278A",
+	internalName = "JAY BASIC",
+	title = "JAY BASIC",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 63,
+			Contrast2012 = -8,
+			Exposure2012 = 0.48,
+			Highlights2012 = -37,
+			ProcessVersion = "6.7",
+			Shadows2012 = 25,
+			Whites2012 = 13,
+		},
+		uuid = "7EE4235F-D54C-4786-A746-4A059D8F210F",
+	},
+	version = 0,
+}

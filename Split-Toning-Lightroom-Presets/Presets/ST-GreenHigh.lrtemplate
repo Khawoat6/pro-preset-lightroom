@@ -1,0 +1,19 @@
+s = {
+	id = "659D6D6A-F0D6-44D0-A086-73D151C2AE06",
+	internalName = "ST-GreenHigh",
+	title = "ST-GreenHigh",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 23,
+			SplitToningHighlightHue = 69,
+			SplitToningHighlightSaturation = 65,
+			SplitToningShadowHue = 193,
+			SplitToningShadowSaturation = 34,
+		},
+		uuid = "3CE7A1BC-E99B-44C0-A98D-ED67ADD31022",
+	},
+	version = 0,
+}

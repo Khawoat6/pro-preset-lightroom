@@ -1,0 +1,16 @@
+s = {
+	id = "DDBEAC26-1AF1-4482-935F-7B92967EA699",
+	internalName = "00 RESET VIB/SAT",
+	title = "00 RESET VIB/SAT",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Saturation = 0,
+			Vibrance = 0,
+		},
+		uuid = "39E65173-7227-4F98-8058-D59BD2F88381",
+	},
+	version = 0,
+}

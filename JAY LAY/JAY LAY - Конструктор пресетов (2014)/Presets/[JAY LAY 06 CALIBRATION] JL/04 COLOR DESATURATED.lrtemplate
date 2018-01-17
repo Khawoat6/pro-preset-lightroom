@@ -1,0 +1,22 @@
+s = {
+	id = "2EFFD212-F483-4F86-906D-36B1D1C8999D",
+	internalName = "04 COLOR DESATURATED",
+	title = "04 COLOR DESATURATED",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = -28,
+			CameraProfile = "Adobe Standard",
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			ProcessVersion = "6.7",
+			RedHue = 0,
+			RedSaturation = -60,
+			ShadowTint = 3,
+		},
+		uuid = "7C64DC26-6700-4E12-8154-5A22AD8E56BA",
+	},
+	version = 0,
+}

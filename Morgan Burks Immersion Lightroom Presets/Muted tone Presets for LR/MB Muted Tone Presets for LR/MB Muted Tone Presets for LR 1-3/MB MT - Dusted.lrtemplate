@@ -1,0 +1,19 @@
+s = {
+	id = "AC143B76-69C8-4B93-9C43-C6975628A85B",
+	internalName = "MB MT - Dusted",
+	title = "MB MT - Dusted",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			EnableSplitToning = true,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 64,
+			SplitToningHighlightSaturation = 5,
+			SplitToningShadowHue = 257,
+			SplitToningShadowSaturation = 30,
+		},
+		uuid = "0212E586-7524-47F5-8B41-C14063E9C938",
+	},
+	version = 0,
+}

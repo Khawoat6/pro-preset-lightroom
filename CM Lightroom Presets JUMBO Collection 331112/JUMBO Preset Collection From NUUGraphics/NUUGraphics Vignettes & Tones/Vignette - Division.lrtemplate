@@ -1,0 +1,23 @@
+s = {
+	id = "422A55B1-628A-46E2-9666-AF4F64447A5E",
+	internalName = "Division",
+	title = "Vignette | Division",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			PostCropVignetteAmount = 45,
+			PostCropVignetteFeather = 100,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 23,
+			PostCropVignetteRoundness = -7,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "276AE25D-E743-41C9-9E20-AFF11AE78787",
+	},
+	version = 0,
+}

@@ -1,0 +1,19 @@
+s = {
+	id = "172BCA7B-08D3-44F6-A068-5A00F53DDF9A",
+	internalName = "ST-TealHigh",
+	title = "ST-TealHigh",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 168,
+			SplitToningHighlightSaturation = 65,
+			SplitToningShadowHue = 60,
+			SplitToningShadowSaturation = 27,
+		},
+		uuid = "9F19AE79-300E-4089-A0E8-7676E84A6C7B",
+	},
+	version = 0,
+}

@@ -1,0 +1,20 @@
+s = {
+	id = "B84685F9-64EE-4945-9004-B878FD1D1B49",
+	internalName = "MB MT - Vignette (Light)",
+	title = "MB MT - Vignette (Light)",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			EnableVignettes = true,
+			PostCropVignetteAmount = -12,
+			PostCropVignetteFeather = 96,
+			PostCropVignetteMidpoint = 35,
+			PostCropVignetteRoundness = -40,
+			VignetteAmount = -14,
+			VignetteMidpoint = 12,
+		},
+		uuid = "B1F6A26A-5C26-4A9D-B396-43D890237F08",
+	},
+	version = 0,
+}

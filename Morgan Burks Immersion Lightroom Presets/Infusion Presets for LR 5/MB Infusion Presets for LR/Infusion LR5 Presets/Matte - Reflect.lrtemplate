@@ -1,0 +1,48 @@
+s = {
+	id = "9C992AEC-8A42-488B-8E1B-35A2E94C6A98",
+	internalName = "Reflect",
+	title = "Matte - Reflect",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = 10,
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ProcessVersion = "6.7",
+			ToneCurveName2012 = "Custom",
+			ToneCurvePV2012 = {
+				28,
+				46,
+				162,
+				185,
+				255,
+				216,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Red = {
+				0,
+				0,
+				255,
+				255,
+			},
+		},
+		uuid = "BA689FEE-A326-48B2-A1B8-6F37ADA9997B",
+	},
+	version = 0,
+}

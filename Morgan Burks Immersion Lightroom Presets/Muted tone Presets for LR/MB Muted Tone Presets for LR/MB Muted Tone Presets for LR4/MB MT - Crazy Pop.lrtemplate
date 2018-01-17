@@ -1,0 +1,27 @@
+s = {
+	id = "E0FC9066-5E45-49EC-A71C-BB99940A95CA",
+	internalName = "MB MT - Crazy Pop",
+	title = "MB MT - Crazy Pop",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ParametricDarks = 33,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = -52,
+			ParametricLights = 38,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = -50,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurveName = "Linear",
+		},
+		uuid = "C88868BC-93D0-465E-879B-DD3A9D443444",
+	},
+	version = 0,
+}

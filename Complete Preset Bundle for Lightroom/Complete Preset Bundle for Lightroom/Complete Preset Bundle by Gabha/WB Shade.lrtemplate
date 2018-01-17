@@ -1,0 +1,16 @@
+s = {
+	id = "B31DEF6C-85E9-4360-9083-3A085B87B004",
+	internalName = "WB Shade",
+	title = "WB Shade",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 7500,
+			Tint = 10,
+			WhiteBalance = "Shade",
+		},
+		uuid = "C4A828E8-E739-4A75-92C8-E1646C1ACACD",
+	},
+	version = 0,
+}

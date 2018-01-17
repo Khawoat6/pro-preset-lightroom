@@ -1,0 +1,18 @@
+s = {
+	id = "B1FDB3EF-0E90-4D76-A922-5DAA9B0D531A",
+	internalName = "Enhance - Sharpen",
+	title = "Enhance - Sharpen",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			ProcessVersion = "6.7",
+			SharpenDetail = 56,
+			SharpenEdgeMasking = 15,
+			SharpenRadius = 3,
+			Sharpness = 100,
+		},
+		uuid = "9094933D-278F-4C81-A348-55BC140E3674",
+	},
+	version = 0,
+}

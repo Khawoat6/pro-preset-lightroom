@@ -1,0 +1,20 @@
+s = {
+	id = "05BD6F99-F0AA-492B-B081-7B86A6869BDE",
+	internalName = "4a. Warmtone Paper - N",
+	title = "4a. Warmtone Paper - N",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 55,
+			SplitToningHighlightSaturation = 5,
+			SplitToningShadowHue = 53,
+			SplitToningShadowSaturation = 5,
+		},
+		uuid = "28B4E759-4BE5-4E7F-A8B2-3988B9E32652",
+	},
+	version = 0,
+}

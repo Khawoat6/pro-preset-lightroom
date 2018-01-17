@@ -1,0 +1,23 @@
+s = {
+	id = "B2FFE402-8932-4DFE-B409-4760319BFE15",
+	internalName = "Yang",
+	title = "Vignette | Yang",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			PostCropVignetteAmount = 100,
+			PostCropVignetteFeather = 0,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 14,
+			PostCropVignetteRoundness = -100,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "6276C0B1-8202-420C-A5EA-0B457DA52548",
+	},
+	version = 0,
+}

@@ -1,0 +1,17 @@
+s = {
+	id = "E20937AB-6D8D-4AF5-AEBD-6A25DE8DE728",
+	internalName = "10. Reset Grain -  N",
+	title = "10. Reset Grain -  N",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 52,
+			GrainSize = 23,
+			ProcessVersion = "6.7",
+		},
+		uuid = "81339CD4-D75D-4220-909C-5A98BC7EFB26",
+	},
+	version = 0,
+}

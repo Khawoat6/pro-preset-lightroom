@@ -1,0 +1,19 @@
+s = {
+	id = "C1624203-23EC-4BB6-94E5-1D3DDDD79392",
+	internalName = "Tone | Flip",
+	title = "Tone | Flip",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = -2,
+			SplitToningHighlightHue = 249,
+			SplitToningHighlightSaturation = 60,
+			SplitToningShadowHue = 94,
+			SplitToningShadowSaturation = 17,
+		},
+		uuid = "E8E2C0DE-11D0-439E-80F8-63B6D251556D",
+	},
+	version = 0,
+}

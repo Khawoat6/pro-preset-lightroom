@@ -1,0 +1,33 @@
+s = {
+	id = "58E2722E-FDC8-4239-AC8C-0D854CD3CFBD",
+	internalName = "MB MT - Breathe",
+	title = "MB MT - Breathe",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			EnableSplitToning = true,
+			ParametricDarks = 33,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = -30,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = -53,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 0,
+			SplitToningShadowSaturation = 0,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurveName = "Linear",
+		},
+		uuid = "00F32DF2-7FE5-4D4D-8D5D-0B1A20C95DCD",
+	},
+	version = 0,
+}

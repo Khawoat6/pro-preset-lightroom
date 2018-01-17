@@ -1,0 +1,19 @@
+s = {
+	id = "F65676A7-6E4C-4A40-A7C7-ECBF8279043B",
+	internalName = "Tone - Storybook",
+	title = "Tone - Storybook",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 274,
+			SplitToningHighlightSaturation = 15,
+			SplitToningShadowHue = 141,
+			SplitToningShadowSaturation = 15,
+		},
+		uuid = "A44A2AAF-1B94-4D5F-999A-C18931446591",
+	},
+	version = 0,
+}

@@ -1,0 +1,23 @@
+s = {
+	id = "3AD1CBF5-CCD4-495E-B76E-C897EBF814F6",
+	internalName = "3a. Red Filter - N",
+	title = "3a. Red Filter - N",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			GrayMixerAqua = 1,
+			GrayMixerBlue = -57,
+			GrayMixerGreen = -54,
+			GrayMixerMagenta = 9,
+			GrayMixerOrange = -10,
+			GrayMixerPurple = 34,
+			GrayMixerRed = 3,
+			GrayMixerYellow = -13,
+			ProcessVersion = "6.7",
+		},
+		uuid = "C280B504-8C93-476C-8E63-E6E5CFEECAC8",
+	},
+	version = 0,
+}

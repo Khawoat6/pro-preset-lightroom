@@ -1,0 +1,28 @@
+s = {
+	id = "7D548EE2-1087-4961-A834-B5AE93DE8F2D",
+	internalName = "MB MT - Calm",
+	title = "MB MT - Calm",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Adobe Standard",
+			EnableCalibration = true,
+			EnableSplitToning = true,
+			GreenHue = 0,
+			GreenSaturation = -31,
+			ProcessVersion = "6.7",
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 73,
+			SplitToningHighlightSaturation = 7,
+			SplitToningShadowHue = 249,
+			SplitToningShadowSaturation = 14,
+		},
+		uuid = "5EB34438-CCDA-4BC0-9AC8-940B58A58A32",
+	},
+	version = 0,
+}

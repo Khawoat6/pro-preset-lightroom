@@ -1,0 +1,19 @@
+s = {
+	id = "8E257B3D-E083-4245-BE71-400F9761A658",
+	internalName = "ST-TealShad",
+	title = "ST-TealShad",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = -30,
+			SplitToningHighlightHue = 87,
+			SplitToningHighlightSaturation = 33,
+			SplitToningShadowHue = 179,
+			SplitToningShadowSaturation = 61,
+		},
+		uuid = "F38F7EE7-75F5-4928-92B7-D1E08A298515",
+	},
+	version = 0,
+}

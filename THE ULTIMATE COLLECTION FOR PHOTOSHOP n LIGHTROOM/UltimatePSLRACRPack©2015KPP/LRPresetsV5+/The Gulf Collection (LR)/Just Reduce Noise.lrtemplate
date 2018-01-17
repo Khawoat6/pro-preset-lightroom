@@ -1,0 +1,20 @@
+s = {
+	id = "87B55D87-64A3-4F69-A444-3DFA6E9ACE44",
+	internalName = "Just Reduce Noise 3",
+	title = "Just Reduce Noise 3",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 17,
+			ColorNoiseReductionDetail = 50,
+			ColorNoiseReductionSmoothness = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 31,
+			ProcessVersion = "6.7",
+		},
+		uuid = "30468028-6E7D-495F-A690-6C05CAF789F4",
+	},
+	version = 0,
+}

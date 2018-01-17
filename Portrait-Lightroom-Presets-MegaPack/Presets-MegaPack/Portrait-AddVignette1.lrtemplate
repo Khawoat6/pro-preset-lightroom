@@ -1,0 +1,20 @@
+s = {
+	id = "3B88E46A-F145-4A9E-A10D-5F658D0AD766",
+	internalName = "Portrait-AddVignette1",
+	title = "Portrait-AddVignette1",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -27,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 45,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "BBFCF6A8-9AAE-4D8A-A496-241131114FE3",
+	},
+	version = 0,
+}

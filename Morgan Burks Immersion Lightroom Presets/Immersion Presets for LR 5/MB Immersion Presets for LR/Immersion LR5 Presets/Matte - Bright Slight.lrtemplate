@@ -1,0 +1,47 @@
+s = {
+	id = "66C826AA-6F05-48BD-AFEC-CCDA877E5376",
+	internalName = "Bright Slight Matte",
+	title = "Matte - Bright Slight",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ProcessVersion = "6.7",
+			ToneCurveName2012 = "Custom",
+			ToneCurvePV2012 = {
+				9,
+				14,
+				125,
+				140,
+				255,
+				239,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Red = {
+				0,
+				0,
+				255,
+				255,
+			},
+		},
+		uuid = "C9F200CD-CE1C-45B9-8EBF-2103AB9370F0",
+	},
+	version = 0,
+}

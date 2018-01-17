@@ -1,0 +1,18 @@
+s = {
+	id = "75BB28D2-8660-4A24-A312-B13E3704D5FC",
+	internalName = "2d. Highlight Soft - N ",
+	title = "2d. Highlight Soft - N ",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 52,
+			Contrast2012 = 87,
+			Highlights2012 = -55,
+			ProcessVersion = "6.7",
+			Shadows2012 = -11,
+			Whites2012 = -5,
+		},
+		uuid = "CF7E0121-A60A-4D95-AC11-044F4CE67D77",
+	},
+	version = 0,
+}

@@ -1,0 +1,15 @@
+s = {
+	id = "00D5F20E-B764-4770-91D8-9859D3B200D6",
+	internalName = "Exposure1 dark",
+	title = "Exposure1 dark",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 10,
+			Exposure2012 = -0.4,
+			ProcessVersion = "6.7",
+		},
+		uuid = "9972EDEF-94D3-4751-AE10-8F765661ABE6",
+	},
+	version = 0,
+}

@@ -1,0 +1,19 @@
+s = {
+	id = "F1F9B956-202B-4861-8A86-88E85F5AE708",
+	internalName = "HDR-Sharpen",
+	title = "HDR-Sharpen",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 48,
+			EnableDetail = true,
+			ProcessVersion = "6.7",
+			SharpenDetail = 35,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 0.9,
+			Sharpness = 49,
+		},
+		uuid = "735CAC04-482E-4CEC-8AF6-11FE22F46F5A",
+	},
+	version = 0,
+}

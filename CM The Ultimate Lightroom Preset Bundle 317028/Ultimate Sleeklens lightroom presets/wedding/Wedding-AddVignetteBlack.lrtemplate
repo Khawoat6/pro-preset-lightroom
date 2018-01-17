@@ -1,0 +1,20 @@
+s = {
+	id = "CA901CA8-2B9F-4E0A-A224-BF7AC498E2B1",
+	internalName = "Wedding-AddVignetteBlack",
+	title = "Wedding-AddVignetteBlack",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -55,
+			PostCropVignetteFeather = 68,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 36,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "E6A468FE-4B28-46DC-8FFF-03B16EDF809D",
+	},
+	version = 0,
+}

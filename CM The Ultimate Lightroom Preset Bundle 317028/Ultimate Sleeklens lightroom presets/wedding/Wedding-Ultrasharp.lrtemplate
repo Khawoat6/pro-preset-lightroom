@@ -1,0 +1,28 @@
+s = {
+	id = "A134D532-FD58-400F-8AE1-67C3100B3DF4",
+	internalName = "Wedding-Ultrasharp",
+	title = "Wedding-Ultrasharp",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 26,
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			ColorNoiseReductionSmoothness = 50,
+			ConvertToGrayscale = false,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 13,
+			ProcessVersion = "6.7",
+			Saturation = 6,
+			SharpenDetail = 33,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 0.8,
+			Sharpness = 125,
+			Vibrance = 64,
+		},
+		uuid = "9D089859-6CD1-465B-9142-7A449527D8E0",
+	},
+	version = 0,
+}

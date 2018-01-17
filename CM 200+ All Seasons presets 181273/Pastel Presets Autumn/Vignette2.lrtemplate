@@ -1,0 +1,20 @@
+s = {
+	id = "1B42CAC9-806A-4DDC-9036-09169B78BECC",
+	internalName = "Vignette2",
+	title = "Vignette2",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -50,
+			PostCropVignetteFeather = 100,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 0,
+			PostCropVignetteRoundness = -3,
+			PostCropVignetteStyle = 2,
+			ProcessVersion = "6.7",
+		},
+		uuid = "0BF269B1-57E2-4322-9DC1-ACCDED6DDFC1",
+	},
+	version = 0,
+}

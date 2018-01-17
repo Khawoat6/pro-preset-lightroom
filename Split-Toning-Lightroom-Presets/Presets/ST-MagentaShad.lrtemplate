@@ -1,0 +1,19 @@
+s = {
+	id = "34C2F20D-5A64-4628-BD56-50118CA0F0B3",
+	internalName = "ST-MagentaShad",
+	title = "ST-MagentaShad",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = -30,
+			SplitToningHighlightHue = 167,
+			SplitToningHighlightSaturation = 33,
+			SplitToningShadowHue = 319,
+			SplitToningShadowSaturation = 61,
+		},
+		uuid = "3FD26BE4-D895-4BD8-8479-7C67A8D92E61",
+	},
+	version = 0,
+}

@@ -1,0 +1,48 @@
+===== UPLOAD BY UTUT.TV =====
+- Included 29 presets:
+1. igraphy_1
+2. igraphy_2
+3. igraphy_3
+4. igraphy_4
+5. igraphy_5
+6. igraphy_6
+7. igraphy_7
+8. igraphy_8
+9. igraphy_9
+10. igraphy_10
+11. igraphy_11
+12. igraphy_12 
+13. igraphy_13
+14. igraphy_14
+15. igraphy_15
+16. igraphy_16
+17. igraphy_17
+18. igraphy_18
+19. igraphy_19
+20. igraphy_20
+21. igraphy_21
+22. igraphy_22
+23. igraphy_23
+24. igraphy_24
+25. igraphy_25
+26. igraphy_26
+27. igraphy_27
+28. igraphy_28
+29. igraphy_29
+
+
+- The file type: .lrtemplate
+- Designed to be used with: RAW, JPG, TIFF
+- Need some changes with over- and underexposed
+- Lightroom: 3.x or above
+
+
+And there are a little guide to make your photos better.
+
+You must understand that Lightroom presets have a better compatibility when they are used for a similar images. 
+Example: when you are using a warm preset, which is based on cold image, you should do the same, take your COLD(!) image, and use this preset. (DONT use it on warm image)
+If you use it on warm image, you will get too much warming, because it will multiply. 
+
+BUT(!) if you want to use it on every image, you - can. Use it, then in "Basic" change "Temp" to the left side if it warm, and to the right side if it cold, until you will be happy.
+
+Hope my giude will help you. If you have any more questions, write it to - zvolia@gmail.com and i will answer as fast as i can.

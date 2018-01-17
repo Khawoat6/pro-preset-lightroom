@@ -1,0 +1,16 @@
+s = {
+	id = "E7A2F475-6AF2-464E-AA53-C997D849B903",
+	internalName = "Pink Tones",
+	title = "Pink Tones",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 5000,
+			Tint = 25,
+			WhiteBalance = "Custom",
+		},
+		uuid = "B973203F-A843-4A57-89C8-ED3371F90675",
+	},
+	version = 0,
+}

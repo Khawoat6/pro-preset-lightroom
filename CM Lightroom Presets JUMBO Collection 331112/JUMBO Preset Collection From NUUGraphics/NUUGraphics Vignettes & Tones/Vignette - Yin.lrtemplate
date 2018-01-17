@@ -1,0 +1,23 @@
+s = {
+	id = "E01E6581-8E8F-47EE-BB4D-9F5092207405",
+	internalName = "Yin",
+	title = "Vignette | Yin",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			PostCropVignetteAmount = -100,
+			PostCropVignetteFeather = 0,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 14,
+			PostCropVignetteRoundness = -100,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "742840BE-911E-47F8-9C00-768563B0EEE8",
+	},
+	version = 0,
+}

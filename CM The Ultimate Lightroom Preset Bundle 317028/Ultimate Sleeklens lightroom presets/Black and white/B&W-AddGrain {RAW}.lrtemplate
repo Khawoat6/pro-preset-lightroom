@@ -1,0 +1,17 @@
+s = {
+	id = "7DB1FAE7-9176-48CD-8377-BA24955EF688",
+	internalName = "AddGrain",
+	title = "B&W-AddGrain {RAW}",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 30,
+			GrainFrequency = 70,
+			GrainSize = 44,
+			ProcessVersion = "6.7",
+		},
+		uuid = "BFF7D2C9-0A1A-4059-8604-AB8A584BCB63",
+	},
+	version = 0,
+}

@@ -1,0 +1,22 @@
+s = {
+	id = "C1B1A99A-2A2F-4519-B5B7-DFC2FC5E3555",
+	internalName = "NO_CONTRAST CALIBRATION",
+	title = "NO_CONTRAST CALIBRATION",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = -35,
+			BlueSaturation = -79,
+			CameraProfile = "Adobe Standard",
+			EnableCalibration = true,
+			GreenHue = 93,
+			GreenSaturation = 91,
+			ProcessVersion = "6.7",
+			RedHue = 61,
+			RedSaturation = -86,
+			ShadowTint = 0,
+		},
+		uuid = "96973DE6-9299-4721-90B0-C294BB2EF867",
+	},
+	version = 0,
+}

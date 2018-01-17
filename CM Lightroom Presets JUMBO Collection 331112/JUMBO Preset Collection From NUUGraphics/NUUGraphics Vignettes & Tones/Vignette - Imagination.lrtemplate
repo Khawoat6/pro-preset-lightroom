@@ -1,0 +1,23 @@
+s = {
+	id = "C31A9708-B441-4731-A9A4-5C3112063812",
+	internalName = "Imagination",
+	title = "Vignette | Imagination",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			PostCropVignetteAmount = -100,
+			PostCropVignetteFeather = 100,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 77,
+			PostCropVignetteRoundness = -12,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "7368CDB0-4B25-48DC-92BE-9D274CB27540",
+	},
+	version = 0,
+}

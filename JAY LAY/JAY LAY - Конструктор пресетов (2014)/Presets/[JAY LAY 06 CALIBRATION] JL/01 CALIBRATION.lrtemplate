@@ -1,0 +1,22 @@
+s = {
+	id = "2CECE3A6-94BF-4DC9-B8D8-0B7F03101A53",
+	internalName = "01 CALIBRATION",
+	title = "01 CALIBRATION",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = -38,
+			BlueSaturation = -76,
+			CameraProfile = "Adobe Standard",
+			EnableCalibration = true,
+			GreenHue = 38,
+			GreenSaturation = 87,
+			ProcessVersion = "6.7",
+			RedHue = 36,
+			RedSaturation = -32,
+			ShadowTint = -6,
+		},
+		uuid = "E4F51789-F326-4B4F-863A-B013A795FEAC",
+	},
+	version = 0,
+}

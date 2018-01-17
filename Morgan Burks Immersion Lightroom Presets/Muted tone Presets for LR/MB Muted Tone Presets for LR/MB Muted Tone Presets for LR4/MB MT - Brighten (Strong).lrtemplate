@@ -1,0 +1,15 @@
+s = {
+	id = "37A19322-F6E7-4DD7-BF3D-1E15C7F00086",
+	internalName = "MB MT - Brighten (Strong)",
+	title = "MB MT - Brighten (Strong)",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = 0.86,
+			Highlights2012 = -33,
+			ProcessVersion = "6.7",
+		},
+		uuid = "A6A49AA6-28F1-41A5-8BB4-DC5959D6DBFF",
+	},
+	version = 0,
+}

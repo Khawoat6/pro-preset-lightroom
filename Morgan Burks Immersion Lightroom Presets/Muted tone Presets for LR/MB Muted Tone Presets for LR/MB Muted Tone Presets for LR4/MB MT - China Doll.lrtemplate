@@ -1,0 +1,22 @@
+s = {
+	id = "9E6168BF-EBB3-44AA-B2EA-007754ABD5BB",
+	internalName = "MB MT - China Doll",
+	title = "MB MT - China Doll",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			EnableSplitToning = true,
+			SplitToningBalance = 29,
+			SplitToningHighlightHue = 34,
+			SplitToningHighlightSaturation = 18,
+			SplitToningShadowHue = 270,
+			SplitToningShadowSaturation = 17,
+			Temperature = 4262,
+			Tint = 39,
+			WhiteBalance = "Custom",
+		},
+		uuid = "57B220D3-7160-40E3-BC2A-D94F8ACC4557",
+	},
+	version = 0,
+}

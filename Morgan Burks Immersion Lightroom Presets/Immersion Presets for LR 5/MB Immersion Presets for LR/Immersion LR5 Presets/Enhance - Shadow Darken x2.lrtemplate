@@ -1,0 +1,14 @@
+s = {
+	id = "F7F2C5F8-516D-4759-A1BF-B4B453AF1D29",
+	internalName = "Enhance - Shadow Darken x2",
+	title = "Enhance - Shadow Darken x2",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Shadows2012 = -100,
+		},
+		uuid = "6EDCF870-94A7-4523-A33B-3AC4AB194C7F",
+	},
+	version = 0,
+}

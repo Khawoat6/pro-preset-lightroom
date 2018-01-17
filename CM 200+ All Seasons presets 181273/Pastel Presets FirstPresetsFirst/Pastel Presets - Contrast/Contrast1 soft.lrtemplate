@@ -1,0 +1,14 @@
+s = {
+	id = "8FB75AD9-96EE-43D6-AB95-DB30D5F947D0",
+	internalName = "Contrast1 soft",
+	title = "Contrast1 soft",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = -48,
+			ProcessVersion = "6.7",
+		},
+		uuid = "865C19B9-FE98-43A1-B408-00EE74551065",
+	},
+	version = 0,
+}

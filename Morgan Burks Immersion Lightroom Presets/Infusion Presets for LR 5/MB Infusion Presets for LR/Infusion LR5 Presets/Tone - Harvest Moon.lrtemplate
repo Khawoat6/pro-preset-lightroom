@@ -1,0 +1,19 @@
+s = {
+	id = "FC5215E5-3BD5-441B-B981-AC751C9CDD98",
+	internalName = "Tone - Harvest Moon",
+	title = "Tone - Harvest Moon",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 5,
+			SplitToningHighlightHue = 60,
+			SplitToningHighlightSaturation = 15,
+			SplitToningShadowHue = 0,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "CEA0CFD5-C201-46D6-93E5-8FB86745E945",
+	},
+	version = 0,
+}

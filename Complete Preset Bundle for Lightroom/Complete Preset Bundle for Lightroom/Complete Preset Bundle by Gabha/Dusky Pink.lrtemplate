@@ -1,0 +1,26 @@
+s = {
+	id = "6661CE2D-806B-4B2D-96B4-6B0760C00BAB",
+	internalName = "Dusky Pink",
+	title = "Dusky Pink",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -15,
+			Contrast2012 = 15,
+			ConvertToGrayscale = false,
+			EnableSplitToning = true,
+			Highlights2012 = -11,
+			ProcessVersion = "6.7",
+			Saturation = -10,
+			Shadows2012 = 12,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 334,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 61,
+			SplitToningShadowSaturation = 13,
+			Vibrance = 12,
+		},
+		uuid = "C62C248C-B3B8-489F-8124-C2895C7930F7",
+	},
+	version = 0,
+}

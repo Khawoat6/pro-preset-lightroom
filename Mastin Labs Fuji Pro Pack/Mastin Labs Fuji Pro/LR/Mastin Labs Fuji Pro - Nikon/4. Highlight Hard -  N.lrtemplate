@@ -1,0 +1,18 @@
+s = {
+	id = "0B8EDFB0-0010-4B07-B3FA-3564DA8E0C26",
+	internalName = "4. Highlight Hard -  N",
+	title = "4. Highlight Hard -  N",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 82,
+			Contrast2012 = 89,
+			Highlights2012 = -25,
+			ProcessVersion = "6.7",
+			Shadows2012 = 1,
+			Whites2012 = -31,
+		},
+		uuid = "671BABB8-6AA0-40B4-832E-E3548F5DACBC",
+	},
+	version = 0,
+}

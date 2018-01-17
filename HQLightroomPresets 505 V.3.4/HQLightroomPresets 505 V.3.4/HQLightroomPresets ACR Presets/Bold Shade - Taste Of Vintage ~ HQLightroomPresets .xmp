@@ -1,0 +1,121 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:Version="7.0"
+   crs:ProcessVersion="6.7"
+   crs:WhiteBalance="Custom"
+   crs:Temperature="7496"
+   crs:Tint="+57"
+   crs:Saturation="-17"
+   crs:Sharpness="66"
+   crs:LuminanceSmoothing="10"
+   crs:ColorNoiseReduction="0"
+   crs:VignetteAmount="0"
+   crs:ShadowTint="0"
+   crs:RedHue="+49"
+   crs:RedSaturation="0"
+   crs:GreenHue="+46"
+   crs:GreenSaturation="0"
+   crs:BlueHue="-44"
+   crs:BlueSaturation="+33"
+   crs:Vibrance="-72"
+   crs:Defringe="0"
+   crs:HueAdjustmentRed="0"
+   crs:HueAdjustmentOrange="0"
+   crs:HueAdjustmentYellow="+1"
+   crs:HueAdjustmentGreen="0"
+   crs:HueAdjustmentAqua="0"
+   crs:HueAdjustmentBlue="0"
+   crs:HueAdjustmentPurple="0"
+   crs:HueAdjustmentMagenta="0"
+   crs:SaturationAdjustmentRed="0"
+   crs:SaturationAdjustmentOrange="-7"
+   crs:SaturationAdjustmentYellow="-5"
+   crs:SaturationAdjustmentGreen="-11"
+   crs:SaturationAdjustmentAqua="-9"
+   crs:SaturationAdjustmentBlue="-9"
+   crs:SaturationAdjustmentPurple="-9"
+   crs:SaturationAdjustmentMagenta="+5"
+   crs:LuminanceAdjustmentRed="0"
+   crs:LuminanceAdjustmentOrange="0"
+   crs:LuminanceAdjustmentYellow="0"
+   crs:LuminanceAdjustmentGreen="0"
+   crs:LuminanceAdjustmentAqua="0"
+   crs:LuminanceAdjustmentBlue="0"
+   crs:LuminanceAdjustmentPurple="0"
+   crs:LuminanceAdjustmentMagenta="0"
+   crs:SplitToningShadowHue="260"
+   crs:SplitToningShadowSaturation="82"
+   crs:SplitToningHighlightHue="103"
+   crs:SplitToningHighlightSaturation="11"
+   crs:SplitToningBalance="+52"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="+32"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="0"
+   crs:ParametricShadowSplit="10"
+   crs:ParametricMidtoneSplit="59"
+   crs:ParametricHighlightSplit="90"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="25"
+   crs:SharpenEdgeMasking="0"
+   crs:PostCropVignetteAmount="-29"
+   crs:PostCropVignetteMidpoint="18"
+   crs:PostCropVignetteFeather="87"
+   crs:PostCropVignetteRoundness="+66"
+   crs:PostCropVignetteStyle="1"
+   crs:PostCropVignetteHighlightContrast="0"
+   crs:GrainAmount="0"
+   crs:LuminanceNoiseReductionDetail="50"
+   crs:LuminanceNoiseReductionContrast="0"
+   crs:LensProfileEnable="0"
+   crs:LensManualDistortionAmount="0"
+   crs:PerspectiveVertical="0"
+   crs:PerspectiveHorizontal="0"
+   crs:PerspectiveRotate="0.0"
+   crs:PerspectiveScale="100"
+   crs:AutoLateralCA="0"
+   crs:Exposure2012="+0.12"
+   crs:Contrast2012="+22"
+   crs:Highlights2012="+12"
+   crs:Shadows2012="+22"
+   crs:Whites2012="-5"
+   crs:Blacks2012="-34"
+   crs:Clarity2012="-2"
+   crs:ConvertToGrayscale="False"
+   crs:ToneCurveName2012="Custom"
+   crs:CameraProfile="ACR 4.4"
+   crs:CameraProfileDigest="4A6ECDBDD018ECDD722F78DB5431BCC9"
+   crs:LensProfileSetup="LensDefaults"
+   crs:HasSettings="True">
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 38</rdf:li>
+     <rdf:li>79, 80</rdf:li>
+     <rdf:li>147, 138</rdf:li>
+     <rdf:li>195, 192</rdf:li>
+     <rdf:li>255, 225</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

@@ -1,0 +1,16 @@
+s = {
+	id = "11BAC86B-8F7A-4F8D-9AEE-00ACB80CA129",
+	internalName = "4000K",
+	title = "4000K",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 4000,
+			Tint = -12,
+			WhiteBalance = "Custom",
+		},
+		uuid = "5D4BF4F6-1AE9-43E3-9CC0-B0FA15FB8B58",
+	},
+	version = 0,
+}

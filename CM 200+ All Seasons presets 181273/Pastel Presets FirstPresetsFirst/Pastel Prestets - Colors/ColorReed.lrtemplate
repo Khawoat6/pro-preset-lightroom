@@ -1,0 +1,19 @@
+s = {
+	id = "1B9E452E-5FD6-47EC-A170-40333ABEEBFD",
+	internalName = "ColorReed",
+	title = "ColorReed",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 66,
+			SplitToningHighlightSaturation = 16,
+			SplitToningShadowHue = 212,
+			SplitToningShadowSaturation = 15,
+		},
+		uuid = "8CF593CD-2723-4664-ACF5-AD91BE9AD50D",
+	},
+	version = 0,
+}

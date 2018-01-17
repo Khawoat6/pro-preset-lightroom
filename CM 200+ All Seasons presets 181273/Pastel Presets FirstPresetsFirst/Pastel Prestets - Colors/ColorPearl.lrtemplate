@@ -1,0 +1,19 @@
+s = {
+	id = "8FDDE77B-5242-4C4A-B87B-8D56B298A04C",
+	internalName = "ColorPearl",
+	title = "ColorPearl",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 41,
+			SplitToningHighlightHue = 204,
+			SplitToningHighlightSaturation = 21,
+			SplitToningShadowHue = 88,
+			SplitToningShadowSaturation = 11,
+		},
+		uuid = "D541AC67-6B96-4F71-9717-C1EFCC55E86E",
+	},
+	version = 0,
+}

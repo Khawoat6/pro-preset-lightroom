@@ -1,0 +1,16 @@
+s = {
+	id = "CEABE3C5-FC0D-4BE4-B643-183D688DE15F",
+	internalName = "MB MT - Frosted",
+	title = "MB MT - Frosted",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			IncrementalTemperature = -17,
+			IncrementalTint = -5,
+			WhiteBalance = "Custom",
+		},
+		uuid = "40BF83CD-E3D0-4277-B41F-2A806DC15E39",
+	},
+	version = 0,
+}

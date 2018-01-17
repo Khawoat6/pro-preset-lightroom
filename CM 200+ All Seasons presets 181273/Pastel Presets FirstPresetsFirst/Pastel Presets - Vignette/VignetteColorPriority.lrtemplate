@@ -1,0 +1,20 @@
+s = {
+	id = "B86F252D-BF8B-4575-A38D-EC726335A08B",
+	internalName = "VignetteColorPriority",
+	title = "VignetteColorPriority",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -44,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 21,
+			PostCropVignetteRoundness = -42,
+			PostCropVignetteStyle = 2,
+			ProcessVersion = "6.7",
+		},
+		uuid = "5604B721-4C0A-4682-9A05-12BC80E48F87",
+	},
+	version = 0,
+}

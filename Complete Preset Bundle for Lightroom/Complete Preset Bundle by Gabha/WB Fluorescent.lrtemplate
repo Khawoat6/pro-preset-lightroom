@@ -1,0 +1,16 @@
+s = {
+	id = "71B9F917-865A-4CB6-BB23-F82F44AD9E0B",
+	internalName = "WB Fluorescent",
+	title = "WB Fluorescent",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 3800,
+			Tint = 21,
+			WhiteBalance = "Fluorescent",
+		},
+		uuid = "F2AA1C32-E7F2-46DC-918C-B4EBD8D9A721",
+	},
+	version = 0,
+}

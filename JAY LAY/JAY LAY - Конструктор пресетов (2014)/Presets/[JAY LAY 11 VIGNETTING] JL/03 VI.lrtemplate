@@ -1,0 +1,20 @@
+s = {
+	id = "50B90563-1A14-4A8C-887F-E70890B84662",
+	internalName = "03 VI",
+	title = "03 VI",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -29,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 40,
+			PostCropVignetteRoundness = 12,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "EB4C6265-A19F-49BA-8D3E-DE8B6798AD31",
+	},
+	version = 0,
+}

@@ -1,0 +1,23 @@
+s = {
+	id = "BE10BACB-EB70-405E-9E3F-D135F3D39133",
+	internalName = "Sail",
+	title = "Vignette | Sail",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			PostCropVignetteAmount = -60,
+			PostCropVignetteFeather = 100,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 73,
+			PostCropVignetteRoundness = 48,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "0A63F35B-A274-4B5C-B322-E274E149960D",
+	},
+	version = 0,
+}

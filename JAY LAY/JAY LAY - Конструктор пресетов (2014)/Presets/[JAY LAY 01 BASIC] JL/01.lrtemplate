@@ -1,0 +1,19 @@
+s = {
+	id = "E9D8120C-5EC5-4F7B-A625-BEE6FD036A12",
+	internalName = "01",
+	title = "01",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 4,
+			Contrast2012 = -6,
+			Exposure2012 = 0.25,
+			Highlights2012 = -28,
+			ProcessVersion = "6.7",
+			Shadows2012 = 23,
+			Whites2012 = 12,
+		},
+		uuid = "88472C88-6645-403E-86DA-77D0D7BE1DF1",
+	},
+	version = 0,
+}

@@ -1,0 +1,14 @@
+s = {
+	id = "2FDF2036-5CAA-4CFA-B4BE-0DE0CFF6B28A",
+	internalName = "00 RESET CLARITY",
+	title = "00 RESET CLARITY",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 0,
+			ProcessVersion = "6.7",
+		},
+		uuid = "6FD306C7-5D08-4AA6-AA19-977B7A709F7F",
+	},
+	version = 0,
+}

@@ -1,0 +1,34 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="Brighten the Corners (for older versions) - Converted by ACR Preset Manager: http://ACRPresetManager.com"
+   xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   crs:HasSettings="True"
+   crs:ChromaticAberrationB = "0"
+   crs:ChromaticAberrationR = "0"
+   crs:CropConstrainToWarp = "0"
+   crs:Defringe = "0"
+   crs:EnableEffects = "true"
+   crs:EnableLensCorrections = "true"
+   crs:GrainAmount = "0"
+   crs:GrainFrequency = "50"
+   crs:GrainSize = "25"
+   crs:LensManualDistortionAmount = "0"
+   crs:LensProfileEnable = "0"
+   crs:LensProfileSetup = "LensDefaults"
+   crs:PerspectiveHorizontal = "0"
+   crs:PerspectiveRotate = "0"
+   crs:PerspectiveScale = "100"
+   crs:PerspectiveVertical = "0"
+   crs:PostCropVignetteAmount = "0"
+   crs:PostCropVignetteFeather = "50"
+   crs:PostCropVignetteHighlightContrast = "0"
+   crs:PostCropVignetteMidpoint = "50"
+   crs:PostCropVignetteRoundness = "0"
+   crs:PostCropVignetteStyle = "1"
+   crs:VignetteAmount = "23"
+   crs:VignetteMidpoint = "49"
+   crs:orientation = "CD">
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

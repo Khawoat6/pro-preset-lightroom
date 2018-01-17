@@ -1,0 +1,29 @@
+s = {
+	id = "1DB39B1A-3096-4BA0-A400-C9E8BE1B1A4C",
+	internalName = "MB MT - Total Haze",
+	title = "MB MT - Total Haze",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoContrast = false,
+			Contrast = -29,
+			ConvertToGrayscale = false,
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 84,
+			ParametricHighlights = -82,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 73,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurveName = "Linear",
+		},
+		uuid = "E61B3977-E345-4719-A55B-7B2B49CC7804",
+	},
+	version = 0,
+}

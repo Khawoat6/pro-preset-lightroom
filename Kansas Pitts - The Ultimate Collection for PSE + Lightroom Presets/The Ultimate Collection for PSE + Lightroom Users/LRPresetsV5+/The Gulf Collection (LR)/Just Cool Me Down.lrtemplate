@@ -1,0 +1,16 @@
+s = {
+	id = "5DA2CE97-7848-494E-B883-B5448DFB25BC",
+	internalName = "Just Cool Me Down 3",
+	title = "Just Cool Me Down 3",
+	type = "Develop",
+	value = {
+		settings = {
+			IncrementalTemperature = 21,
+			IncrementalTint = -10,
+			ProcessVersion = "6.7",
+			WhiteBalance = "Custom",
+		},
+		uuid = "DB12DCCA-32C3-415A-9D04-967870B02B11",
+	},
+	version = 0,
+}

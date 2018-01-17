@@ -1,0 +1,15 @@
+s = {
+	id = "C:\\Users\\Gary\\AppData\\Roaming\\Adobe\\Lightroom\\Develop Presets\\ARTISTIC 2\\WOW-a_WB-Daylight-.lrtemplate",
+	internalName = "WOW-a_WB-Daylight+",
+	title = "ARTISTIC2-Daylight blue",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 4872.3403811455,
+			Tint = 0,
+			WhiteBalance = "Custom",
+		},
+		uuid = "EB661354-AE38-440F-8590-89DE177C3243",
+	},
+	version = 0,
+}

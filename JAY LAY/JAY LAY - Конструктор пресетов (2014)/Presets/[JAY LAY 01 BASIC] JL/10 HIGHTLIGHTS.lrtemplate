@@ -1,0 +1,19 @@
+s = {
+	id = "1E4B7856-F115-41B4-A6E2-751E12B7E2C4",
+	internalName = "10 HIGHTLIGHTS",
+	title = "10 HIGHTLIGHTS",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 4,
+			Contrast2012 = -6,
+			Exposure2012 = 0.25,
+			Highlights2012 = -61,
+			ProcessVersion = "6.7",
+			Shadows2012 = 59,
+			Whites2012 = 27,
+		},
+		uuid = "B8FB2DA4-518B-4770-A62C-FA64CF246638",
+	},
+	version = 0,
+}

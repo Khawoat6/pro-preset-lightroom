@@ -1,0 +1,22 @@
+s = {
+	id = "8786D35C-102B-4462-A312-8D18FEFF3BBA",
+	internalName = "00 RESET CALIBRATION",
+	title = "00 RESET CALIBRATION",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Adobe Standard",
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			ProcessVersion = "6.7",
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "3A25AD3D-4A4A-4AB9-B486-B76BAD3AF90F",
+	},
+	version = 0,
+}

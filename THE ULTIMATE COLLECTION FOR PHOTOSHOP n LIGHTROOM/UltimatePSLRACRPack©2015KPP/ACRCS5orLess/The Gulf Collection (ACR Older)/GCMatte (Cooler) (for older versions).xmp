@@ -1,0 +1,37 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="Matte (Cooler) (for older versions) - Converted by ACR Preset Manager: http://ACRPresetManager.com"
+   xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   crs:HasSettings="True"
+   crs:AutoBrightness = "false"
+   crs:AutoContrast = "false"
+   crs:AutoExposure = "false"
+   crs:AutoShadows = "false"
+   crs:Brightness = "0"
+   crs:Contrast = "0"
+   crs:Exposure = "0.35"
+   crs:FillLight = "54"
+   crs:HighlightRecovery = "25"
+   crs:ParametricDarks = "0"
+   crs:ParametricHighlightSplit = "75"
+   crs:ParametricHighlights = "0"
+   crs:ParametricLights = "0"
+   crs:ParametricMidtoneSplit = "50"
+   crs:ParametricShadowSplit = "25"
+   crs:ParametricShadows = "0"
+   crs:Shadows = "0"
+   crs:Temperature = "7311"
+   crs:Tint = "14"
+   crs:ToneCurveName = "Custom"
+   crs:WhiteBalance = "Custom">
+   <crs:ToneCurve>
+    <rdf:Seq>
+    <rdf:li>0,19</rdf:li>
+    <rdf:li>79,79</rdf:li>
+    <rdf:li>255,255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurve>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

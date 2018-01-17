@@ -1,0 +1,17 @@
+s = {
+	id = "794B8457-3724-4A0C-AFDD-DFCADF3FF45C",
+	internalName = "Pastels-AddGrain {JPEG}",
+	title = "Pastels-AddGrain {JPEG}",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 17,
+			GrainFrequency = 59,
+			GrainSize = 9,
+			ProcessVersion = "6.7",
+		},
+		uuid = "6260F10F-8B97-4C6F-9E98-88DE65184D0E",
+	},
+	version = 0,
+}

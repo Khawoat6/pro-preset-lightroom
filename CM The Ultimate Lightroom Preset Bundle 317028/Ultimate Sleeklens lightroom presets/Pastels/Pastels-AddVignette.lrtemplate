@@ -1,0 +1,20 @@
+s = {
+	id = "C25D6375-8FC6-47E8-B0E4-AF11F951B4E2",
+	internalName = "Pastels-AddVignette",
+	title = "Pastels-AddVignette",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -32,
+			PostCropVignetteFeather = 62,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 33,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "FD4546DA-1D26-4B11-8445-12F77BD76ACF",
+	},
+	version = 0,
+}

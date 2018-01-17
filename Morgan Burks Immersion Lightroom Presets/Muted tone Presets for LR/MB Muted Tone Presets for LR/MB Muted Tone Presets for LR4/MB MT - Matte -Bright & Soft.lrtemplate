@@ -1,0 +1,47 @@
+s = {
+	id = "846D8A30-69C2-49E5-A2BA-23D094A5E99A",
+	internalName = "MB MT - Matte -Bright & Soft",
+	title = "MB MT - Matte -Bright & Soft",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = 0.29,
+			Highlights2012 = -11,
+			ParametricDarks = -26,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = -11,
+			ParametricLights = 21,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 77,
+			ProcessVersion = "6.7",
+			ToneCurveName2012 = "Linear",
+			ToneCurvePV2012 = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Red = {
+				0,
+				0,
+				255,
+				255,
+			},
+		},
+		uuid = "6684C0E9-CCC1-4C27-920D-4550B56D46EA",
+	},
+	version = 0,
+}

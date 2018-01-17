@@ -1,0 +1,13 @@
+s = {
+	id = "29C1D400-43FA-44B0-A807-1E7B686F697C",
+	internalName = "Just Bring the People (Shadows) (for older versions)",
+	title = "Just Bring the People (Shadows) (for older versions)",
+	type = "Develop",
+	value = {
+		settings = {
+			FillLight = 31,
+		},
+		uuid = "8AF7B8D4-2C11-46A9-93DE-4C0E8F153EF4",
+	},
+	version = 0,
+}

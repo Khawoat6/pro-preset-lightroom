@@ -1,0 +1,14 @@
+s = {
+	id = "22267ED6-6460-4A08-8497-B2274422D857",
+	internalName = "(Baby Work) + Saturate I",
+	title = "(Baby Work) + Saturate I",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			Vibrance = 45,
+		},
+		uuid = "994F47F6-0CBC-4432-8F13-4C261331C59E",
+	},
+	version = 0,
+}

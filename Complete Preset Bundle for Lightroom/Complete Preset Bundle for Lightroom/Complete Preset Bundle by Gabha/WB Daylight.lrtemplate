@@ -1,0 +1,16 @@
+s = {
+	id = "F5C8F2CF-DAEA-4C23-B230-9E654A39E624",
+	internalName = "WB Daylight",
+	title = "WB Daylight",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 5500,
+			Tint = 10,
+			WhiteBalance = "Daylight",
+		},
+		uuid = "F12A420C-BA9F-4616-A9FC-7CA9154E0113",
+	},
+	version = 0,
+}

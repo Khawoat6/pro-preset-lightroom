@@ -1,0 +1,19 @@
+s = {
+	id = "EA43B58A-B915-4195-83E2-5EE9B53362B9",
+	internalName = "00 RESET SPLIT TONING",
+	title = "00 RESET SPLIT TONING",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 0,
+			SplitToningShadowSaturation = 0,
+		},
+		uuid = "E2126DC4-CB23-41BB-A31D-22E6F5064880",
+	},
+	version = 0,
+}

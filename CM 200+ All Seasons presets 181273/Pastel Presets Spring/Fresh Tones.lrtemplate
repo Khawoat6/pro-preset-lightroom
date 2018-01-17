@@ -1,0 +1,22 @@
+s = {
+	id = "9F1CA6B5-11E4-46BA-962C-6D8AA9FE8E1E",
+	internalName = "Fresh Tones",
+	title = "Fresh Tones",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 241,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 77,
+			SplitToningShadowSaturation = 20,
+			Temperature = 5000,
+			Tint = -12,
+			WhiteBalance = "Custom",
+		},
+		uuid = "89280B2D-3DBB-4D92-88BE-71B8FC17C88B",
+	},
+	version = 0,
+}

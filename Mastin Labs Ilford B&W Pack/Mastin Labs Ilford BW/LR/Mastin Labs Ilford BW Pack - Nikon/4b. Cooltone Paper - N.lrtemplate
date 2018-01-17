@@ -1,0 +1,20 @@
+s = {
+	id = "43829C72-CF0E-41A5-9BF7-B0D1671568D8",
+	internalName = "4b. Cooltone Paper - N",
+	title = "4b. Cooltone Paper - N",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 226,
+			SplitToningHighlightSaturation = 5,
+			SplitToningShadowHue = 214,
+			SplitToningShadowSaturation = 2,
+		},
+		uuid = "10679B40-3507-4B4F-A455-BAB7EF91FDE8",
+	},
+	version = 0,
+}

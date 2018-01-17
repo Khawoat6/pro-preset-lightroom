@@ -1,0 +1,20 @@
+s = {
+	id = "A1FEB793-93A5-47E3-85C9-75DBD5414970",
+	internalName = "MB MT - Vignette (Strong)",
+	title = "MB MT - Vignette (Strong)",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			EnableVignettes = true,
+			PostCropVignetteAmount = -31,
+			PostCropVignetteFeather = 96,
+			PostCropVignetteMidpoint = 71,
+			PostCropVignetteRoundness = -40,
+			VignetteAmount = -14,
+			VignetteMidpoint = 0,
+		},
+		uuid = "8CAD3BC4-5F52-48D1-9154-1EBB86BB7712",
+	},
+	version = 0,
+}

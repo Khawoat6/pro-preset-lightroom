@@ -1,0 +1,22 @@
+s = {
+	id = "1091F275-05C8-4BA1-B876-236AE2538600",
+	internalName = "06 CALIBRATION CLASSIC",
+	title = "06 CALIBRATION CLASSIC",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = -73,
+			BlueSaturation = -31,
+			CameraProfile = "Camera Standard",
+			EnableCalibration = true,
+			GreenHue = 28,
+			GreenSaturation = 56,
+			ProcessVersion = "6.7",
+			RedHue = 94,
+			RedSaturation = -62,
+			ShadowTint = 26,
+		},
+		uuid = "6B9B5BB1-2B0F-4424-AC79-E6054F3BBDFA",
+	},
+	version = 0,
+}

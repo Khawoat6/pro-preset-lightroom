@@ -1,0 +1,21 @@
+s = {
+	id = "C0EBEBD1-E207-450C-8357-5FA0A00F4A92",
+	internalName = "Enhance - Smooth Sharpen",
+	title = "Enhance - Smooth Sharpen",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 46,
+			LuminanceNoiseReductionDetail = 51,
+			LuminanceSmoothing = 55,
+			ProcessVersion = "6.7",
+			SharpenDetail = 56,
+			SharpenEdgeMasking = 15,
+			SharpenRadius = 3,
+			Sharpness = 100,
+		},
+		uuid = "E8FCCC77-B797-4C64-982C-0105B43012F2",
+	},
+	version = 0,
+}

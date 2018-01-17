@@ -1,0 +1,18 @@
+s = {
+	id = "60C9C9FC-87AC-4A06-B801-3F3A0AC31773",
+	internalName = "02 sharping",
+	title = "02 sharping",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			ProcessVersion = "6.7",
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 0.5,
+			Sharpness = 101,
+		},
+		uuid = "B639AE80-4BB0-427A-8086-7C98B94F274B",
+	},
+	version = 0,
+}

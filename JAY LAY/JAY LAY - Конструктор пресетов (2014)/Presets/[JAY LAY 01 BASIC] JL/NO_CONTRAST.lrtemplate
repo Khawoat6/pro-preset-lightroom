@@ -1,0 +1,19 @@
+s = {
+	id = "AB5A1959-7E15-4A1E-B5E2-43BD539CF975",
+	internalName = "NO_CONTRAST",
+	title = "NO_CONTRAST",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 41,
+			Contrast2012 = -30,
+			Exposure2012 = 0.55,
+			Highlights2012 = -37,
+			ProcessVersion = "6.7",
+			Shadows2012 = 28,
+			Whites2012 = 4,
+		},
+		uuid = "D30E3711-944D-459D-9DB8-89B40BC32958",
+	},
+	version = 0,
+}

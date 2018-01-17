@@ -1,0 +1,19 @@
+s = {
+	id = "5C3DBEB6-89E0-435A-96EF-A4EF6098A15A",
+	internalName = "ST-BlueShad",
+	title = "ST-BlueShad",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = -30,
+			SplitToningHighlightHue = 87,
+			SplitToningHighlightSaturation = 33,
+			SplitToningShadowHue = 216,
+			SplitToningShadowSaturation = 61,
+		},
+		uuid = "E5E5C020-B0C1-4A88-AACF-7488E9F9EE4F",
+	},
+	version = 0,
+}

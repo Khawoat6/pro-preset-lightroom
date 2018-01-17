@@ -1,0 +1,16 @@
+s = {
+	id = "B8F5FF89-0B05-4964-AF3C-742788F8D8C5",
+	internalName = "4500K",
+	title = "4500K",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 4500,
+			Tint = -12,
+			WhiteBalance = "Custom",
+		},
+		uuid = "F4F1B4DB-FD74-4AC8-8FA2-BA99A1A54ED9",
+	},
+	version = 0,
+}

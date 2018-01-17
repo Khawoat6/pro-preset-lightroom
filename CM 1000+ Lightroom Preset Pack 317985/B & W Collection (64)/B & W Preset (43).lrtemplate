@@ -1,0 +1,17 @@
+s = {
+	id = "D83579A6-95D9-4972-B3B8-60044297FAD2",
+	internalName = "14_Film B&W Lightroom Presets_Film Grain_4 (Effects)",
+	title = "14_Film B&W Lightroom Presets_Film Grain_4 (Effects)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 50,
+			GrainFrequency = 55,
+			GrainSize = 60,
+			ProcessVersion = "6.7",
+		},
+		uuid = "E226A4E8-7122-442D-89C9-1335269A5D1E",
+	},
+	version = 0,
+}

@@ -1,0 +1,19 @@
+s = {
+	id = "CD66458E-E700-4412-9253-916D52E345FB",
+	internalName = "ST-RedShad",
+	title = "ST-RedShad",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 118,
+			SplitToningHighlightSaturation = 33,
+			SplitToningShadowHue = 16,
+			SplitToningShadowSaturation = 54,
+		},
+		uuid = "0D8E58FA-F51D-442C-AEB9-67E385B631F8",
+	},
+	version = 0,
+}

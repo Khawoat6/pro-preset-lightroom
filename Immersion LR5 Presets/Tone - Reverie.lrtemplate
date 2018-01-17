@@ -1,0 +1,19 @@
+s = {
+	id = "A91464AD-F521-4F06-9378-ED1F8F55A0FB",
+	internalName = "Tone - Reverie",
+	title = "Tone - Reverie",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 236,
+			SplitToningHighlightSaturation = 11,
+			SplitToningShadowHue = 30,
+			SplitToningShadowSaturation = 10,
+		},
+		uuid = "DE2997AF-5156-44C2-9719-CC5052CE8C75",
+	},
+	version = 0,
+}

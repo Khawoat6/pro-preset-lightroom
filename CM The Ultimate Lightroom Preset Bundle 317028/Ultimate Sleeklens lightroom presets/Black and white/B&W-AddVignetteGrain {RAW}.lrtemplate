@@ -1,0 +1,23 @@
+s = {
+	id = "07C20F49-6951-40CD-9020-8FB02C01CD76",
+	internalName = "AddVignetteGrain",
+	title = "B&W-AddVignetteGrain {RAW}",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 30,
+			GrainFrequency = 70,
+			GrainSize = 44,
+			PostCropVignetteAmount = -40,
+			PostCropVignetteFeather = 62,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 28,
+			PostCropVignetteRoundness = 12,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "11EDD74C-9455-4677-A339-62F7A9674633",
+	},
+	version = 0,
+}

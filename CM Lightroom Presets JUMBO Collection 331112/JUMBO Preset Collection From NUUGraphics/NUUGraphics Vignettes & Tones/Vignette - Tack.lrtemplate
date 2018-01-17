@@ -1,0 +1,23 @@
+s = {
+	id = "E93CD851-18DB-4836-BDE4-528E554E8F27",
+	internalName = "Tack",
+	title = "Vignette | Tack",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			PostCropVignetteAmount = -31,
+			PostCropVignetteFeather = 40,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 67,
+			PostCropVignetteRoundness = -14,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "0D6DE350-BFCE-452C-A547-0DE517298F32",
+	},
+	version = 0,
+}

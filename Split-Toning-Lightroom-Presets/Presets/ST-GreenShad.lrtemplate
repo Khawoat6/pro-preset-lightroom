@@ -1,0 +1,19 @@
+s = {
+	id = "B7812B20-C6E1-4DAC-8EDD-1FFE7210618F",
+	internalName = "ST-GreenShad",
+	title = "ST-GreenShad",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 87,
+			SplitToningHighlightSaturation = 33,
+			SplitToningShadowHue = 102,
+			SplitToningShadowSaturation = 54,
+		},
+		uuid = "DCFCD509-7F0F-44A1-B0A6-26F0131ECB79",
+	},
+	version = 0,
+}

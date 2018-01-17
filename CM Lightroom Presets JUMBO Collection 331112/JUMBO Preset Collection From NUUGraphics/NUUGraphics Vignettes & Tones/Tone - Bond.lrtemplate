@@ -1,0 +1,19 @@
+s = {
+	id = "59A04126-51F3-4BC4-84F1-A95DD3691A5D",
+	internalName = "Tone | Bond",
+	title = "Tone | Bond",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = -14,
+			SplitToningHighlightHue = 51,
+			SplitToningHighlightSaturation = 49,
+			SplitToningShadowHue = 212,
+			SplitToningShadowSaturation = 92,
+		},
+		uuid = "349920D1-03D2-42D3-A183-15770C95163F",
+	},
+	version = 0,
+}

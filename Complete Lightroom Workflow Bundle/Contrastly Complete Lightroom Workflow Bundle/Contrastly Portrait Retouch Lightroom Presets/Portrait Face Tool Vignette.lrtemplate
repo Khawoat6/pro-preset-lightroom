@@ -1,0 +1,23 @@
+s = {
+	id = "A62F5AFC-0038-447D-A100-A4992319F0D9",
+	internalName = "Portrait Face Tool Vignette",
+	title = "Portrait Face Tool Vignette",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableCircularGradientBasedCorrections = true,
+			EnableEffects = true,
+			EnableGradientBasedCorrections = true,
+			PostCropVignetteAmount = 0,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+			orientation = "AB",
+		},
+		uuid = "7E8CAB3A-9B18-4937-A11E-1512FD29E497",
+	},
+	version = 0,
+}

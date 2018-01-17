@@ -1,0 +1,19 @@
+s = {
+	id = "0BF590D9-4E62-4FE8-B3F0-DB11306B1FD2",
+	internalName = "MB MT - Peachy Keen",
+	title = "MB MT - Peachy Keen",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			EnableSplitToning = true,
+			SplitToningBalance = -5,
+			SplitToningHighlightHue = 30,
+			SplitToningHighlightSaturation = 25,
+			SplitToningShadowHue = 244,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "E1824DF2-2358-4AD7-AEEF-7D3599056E1B",
+	},
+	version = 0,
+}

@@ -1,0 +1,27 @@
+s = {
+	id = "29514694-7E8A-4945-B8DF-0602948FC30C",
+	internalName = "HDR-Cool1",
+	title = "HDR-Cool1",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 0,
+			Clarity2012 = 31,
+			Contrast2012 = -14,
+			ConvertToGrayscale = false,
+			EnableSplitToning = true,
+			Highlights2012 = -49,
+			ProcessVersion = "6.7",
+			Shadows2012 = 62,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 75,
+			SplitToningHighlightSaturation = 33,
+			SplitToningShadowHue = 229,
+			SplitToningShadowSaturation = 20,
+			Vibrance = 7,
+			Whites2012 = 0,
+		},
+		uuid = "65C0E34F-A429-499A-A8F2-509E448FAA0E",
+	},
+	version = 0,
+}

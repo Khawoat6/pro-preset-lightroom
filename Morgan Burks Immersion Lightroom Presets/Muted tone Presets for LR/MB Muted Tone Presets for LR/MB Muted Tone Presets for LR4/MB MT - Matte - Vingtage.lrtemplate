@@ -1,0 +1,33 @@
+s = {
+	id = "40D819C9-1C7E-44AC-938F-E515FC05E852",
+	internalName = "MB MT - Matte - Vingtage",
+	title = "MB MT - Matte - Vingtage",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			EnableSplitToning = true,
+			ParametricDarks = -32,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = -18,
+			ParametricLights = 24,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 77,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 107,
+			SplitToningHighlightSaturation = 13,
+			SplitToningShadowHue = 279,
+			SplitToningShadowSaturation = 31,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurveName = "Linear",
+		},
+		uuid = "5D3846ED-3C6A-4BCA-9FFF-ED138B01B99E",
+	},
+	version = 0,
+}

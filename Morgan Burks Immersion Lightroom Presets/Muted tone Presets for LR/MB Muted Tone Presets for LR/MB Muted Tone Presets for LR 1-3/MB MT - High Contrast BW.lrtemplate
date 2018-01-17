@@ -1,0 +1,15 @@
+s = {
+	id = "2D80639B-BC5D-44AF-83DB-5F3647D54603",
+	internalName = "MB MT - High Contrast BW",
+	title = "MB MT - High Contrast BW",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoContrast = false,
+			Contrast = 80,
+			ConvertToGrayscale = true,
+		},
+		uuid = "EE6C104B-0C18-4558-96DF-F462C96BAE94",
+	},
+	version = 0,
+}

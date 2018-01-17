@@ -1,0 +1,23 @@
+s = {
+	id = "71AEE724-55AF-41B2-BA79-B5A4A975A97F",
+	internalName = "Valve",
+	title = "Vignette | Valve",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			PostCropVignetteAmount = -55,
+			PostCropVignetteFeather = 100,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 100,
+			PostCropVignetteRoundness = -55,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "7E0059AF-DF82-4CA3-AF0C-4F1D7F398816",
+	},
+	version = 0,
+}

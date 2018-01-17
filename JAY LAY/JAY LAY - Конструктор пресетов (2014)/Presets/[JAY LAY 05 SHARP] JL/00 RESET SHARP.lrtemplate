@@ -1,0 +1,18 @@
+s = {
+	id = "74CD17F1-695E-4350-A603-EAD8ACEB7E9D",
+	internalName = "00 RESET SHARP",
+	title = "00 RESET SHARP",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			ProcessVersion = "6.7",
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1,
+			Sharpness = 25,
+		},
+		uuid = "78B5AE85-D745-43D5-ACC8-075AC38DF894",
+	},
+	version = 0,
+}

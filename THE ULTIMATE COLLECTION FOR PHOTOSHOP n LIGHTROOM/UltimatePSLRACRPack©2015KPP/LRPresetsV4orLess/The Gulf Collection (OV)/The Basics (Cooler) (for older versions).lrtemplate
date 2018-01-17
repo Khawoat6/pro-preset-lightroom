@@ -1,0 +1,25 @@
+s = {
+	id = "FD777EF5-BE5F-4747-B2B9-9F9EB2A148AA",
+	internalName = "The Basics (Cooler) (for older versions)",
+	title = "The Basics (Cooler) (for older versions)",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			Brightness = 0,
+			Contrast = 8,
+			Exposure = 0.6,
+			FillLight = 22,
+			HighlightRecovery = 18,
+			Shadows = 0,
+			Temperature = 6796,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "8CCBAF3A-53C3-42AE-A735-6CED3862020E",
+	},
+	version = 0,
+}

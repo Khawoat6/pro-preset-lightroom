@@ -1,0 +1,17 @@
+s = {
+	id = "72BE9317-7F42-4FD0-9DA5-6E9636F1CDA9",
+	internalName = "9. Medium Format Grain -  N",
+	title = "9. Medium Format Grain -  N",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 18,
+			GrainFrequency = 52,
+			GrainSize = 23,
+			ProcessVersion = "6.7",
+		},
+		uuid = "036E2E60-2AEE-4E08-AFEF-EC10D34E87D8",
+	},
+	version = 0,
+}

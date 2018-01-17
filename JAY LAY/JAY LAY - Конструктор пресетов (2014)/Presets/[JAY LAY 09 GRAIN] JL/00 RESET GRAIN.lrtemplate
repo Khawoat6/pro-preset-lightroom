@@ -1,0 +1,17 @@
+s = {
+	id = "E0870667-CA93-40C8-814E-28ECFA1D42C8",
+	internalName = "00 RESET GRAIN",
+	title = "00 RESET GRAIN",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			ProcessVersion = "6.7",
+		},
+		uuid = "D4D01806-875E-4E1D-8925-FB2B3F450815",
+	},
+	version = 0,
+}

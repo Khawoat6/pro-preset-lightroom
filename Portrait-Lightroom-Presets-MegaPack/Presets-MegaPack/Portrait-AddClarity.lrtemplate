@@ -1,0 +1,14 @@
+s = {
+	id = "D28C158A-CA5B-498D-B466-68DEF9413D43",
+	internalName = "Portrait15-AddClarity",
+	title = "Portrait-AddClarity",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 15,
+			ProcessVersion = "6.7",
+		},
+		uuid = "B4D1EF8D-4F26-4820-A579-D5B11A9D5080",
+	},
+	version = 0,
+}

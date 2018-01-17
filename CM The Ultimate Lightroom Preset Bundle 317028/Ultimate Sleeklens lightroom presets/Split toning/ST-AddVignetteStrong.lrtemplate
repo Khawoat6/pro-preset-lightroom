@@ -1,0 +1,20 @@
+s = {
+	id = "836A9A15-37A0-4002-A753-2ADF772CFEC7",
+	internalName = "ST-AddVignetteStrong",
+	title = "ST-AddVignetteStrong",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -50,
+			PostCropVignetteFeather = 72,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 32,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "166D60E7-006D-4B95-A8DA-CEB1D63B45FD",
+	},
+	version = 0,
+}

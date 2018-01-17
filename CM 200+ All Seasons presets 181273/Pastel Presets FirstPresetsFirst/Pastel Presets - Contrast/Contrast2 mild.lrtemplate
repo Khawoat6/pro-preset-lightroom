@@ -1,0 +1,14 @@
+s = {
+	id = "BACF2A76-477B-4A9B-A2A8-BC577CF154E6",
+	internalName = "Contrast2 mild",
+	title = "Contrast2 mild",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = -24,
+			ProcessVersion = "6.7",
+		},
+		uuid = "538E3A0C-AC8D-4C5F-BE8B-F66A01B8EC02",
+	},
+	version = 0,
+}

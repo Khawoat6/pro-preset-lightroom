@@ -1,0 +1,15 @@
+s = {
+	id = "622D68D6-7CE4-4552-AFCE-E87913FDF07D",
+	internalName = "Just Cool Me Down (for older versions)",
+	title = "Just Cool Me Down (for older versions)",
+	type = "Develop",
+	value = {
+		settings = {
+			IncrementalTemperature = -12,
+			IncrementalTint = 0,
+			WhiteBalance = "Custom",
+		},
+		uuid = "25AF9CAE-B803-4EDA-B75A-C64C87DB83F3",
+	},
+	version = 0,
+}

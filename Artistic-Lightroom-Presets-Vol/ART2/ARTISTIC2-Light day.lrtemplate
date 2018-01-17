@@ -1,0 +1,15 @@
+s = {
+	id = "C:\\Users\\Gary\\AppData\\Roaming\\Adobe\\Lightroom\\Develop Presets\\ARTISTIC 2\\WOW-a_WB-Shade - Copy.lrtemplate",
+	internalName = "WOW-a_WB-Shade",
+	title = "ARTISTIC2-Light day",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 7500,
+			Tint = 10,
+			WhiteBalance = "Shade",
+		},
+		uuid = "6661E525-EAD3-4D94-B6AC-094D20C91B33",
+	},
+	version = 0,
+}

@@ -1,0 +1,14 @@
+s = {
+	id = "6678E389-7627-49FC-98AC-25DC2272924A",
+	internalName = "Enhance - Shadow Brighten",
+	title = "Enhance - Shadow Brighten",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Shadows2012 = 24,
+		},
+		uuid = "AC483A92-E8DA-486E-8B65-617209277C2B",
+	},
+	version = 0,
+}

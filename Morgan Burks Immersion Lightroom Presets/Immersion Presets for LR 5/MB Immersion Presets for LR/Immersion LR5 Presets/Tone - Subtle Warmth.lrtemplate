@@ -1,0 +1,19 @@
+s = {
+	id = "8DE500C7-3EFE-48F0-B9B3-B020AA52B7A4",
+	internalName = "Tone - Subtle Warmth",
+	title = "Tone - Subtle Warmth",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 34,
+			SplitToningHighlightSaturation = 2,
+			SplitToningShadowHue = 0,
+			SplitToningShadowSaturation = 2,
+		},
+		uuid = "16E2FAFC-E7DF-43F5-9C39-790C17FA4BFB",
+	},
+	version = 0,
+}

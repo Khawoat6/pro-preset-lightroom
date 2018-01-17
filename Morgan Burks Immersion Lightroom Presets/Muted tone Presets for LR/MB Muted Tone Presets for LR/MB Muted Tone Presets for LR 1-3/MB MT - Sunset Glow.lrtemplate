@@ -1,0 +1,16 @@
+s = {
+	id = "9DB0167B-6490-4640-B557-E3134688C83B",
+	internalName = "MB MT - Sunset Glow",
+	title = "MB MT - Sunset Glow",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			IncrementalTemperature = 5,
+			IncrementalTint = 17,
+			WhiteBalance = "Custom",
+		},
+		uuid = "960FF55A-CD57-488C-84B8-04A436BA6E6E",
+	},
+	version = 0,
+}

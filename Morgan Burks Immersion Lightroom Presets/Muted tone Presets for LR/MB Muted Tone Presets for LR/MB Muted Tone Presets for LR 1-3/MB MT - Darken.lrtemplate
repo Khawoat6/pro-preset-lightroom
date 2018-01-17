@@ -1,0 +1,16 @@
+s = {
+	id = "C6E114E6-26EA-4260-8733-93A6093EB938",
+	internalName = "MB MT - Darken",
+	title = "MB MT - Darken",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoExposure = false,
+			ConvertToGrayscale = false,
+			Exposure = -0.19,
+			FillLight = 4,
+		},
+		uuid = "36D645CB-9885-4B7C-B4CC-DAB175052F97",
+	},
+	version = 0,
+}

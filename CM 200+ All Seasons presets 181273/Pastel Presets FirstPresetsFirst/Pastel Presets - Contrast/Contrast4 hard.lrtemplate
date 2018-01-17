@@ -1,0 +1,14 @@
+s = {
+	id = "7CA1B82A-0429-4EFC-AD76-6449043A2F17",
+	internalName = "Contrast4 hard",
+	title = "Contrast4 hard",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = 75,
+			ProcessVersion = "6.7",
+		},
+		uuid = "652B78F8-A2F8-4B9E-818E-25A002283DBB",
+	},
+	version = 0,
+}

@@ -1,0 +1,20 @@
+s = {
+	id = "78753FA9-FBA3-436E-8C03-837EB3DBB208",
+	internalName = "00 RESET VIGN",
+	title = "00 RESET VIGN",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = 0,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 50,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "4616C6A0-FA18-481C-8334-39283C074FBC",
+	},
+	version = 0,
+}

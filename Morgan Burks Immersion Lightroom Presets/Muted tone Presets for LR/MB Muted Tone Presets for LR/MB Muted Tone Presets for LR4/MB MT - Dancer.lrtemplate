@@ -1,0 +1,19 @@
+s = {
+	id = "E4A180E1-8CDC-435B-9E5E-DE3FABBBB170",
+	internalName = "MB MT - Dancer",
+	title = "MB MT - Dancer",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			EnableSplitToning = true,
+			SplitToningBalance = 38,
+			SplitToningHighlightHue = 330,
+			SplitToningHighlightSaturation = 12,
+			SplitToningShadowHue = 236,
+			SplitToningShadowSaturation = 29,
+		},
+		uuid = "D8B9134C-96FA-4992-8C2A-16BC80B1066A",
+	},
+	version = 0,
+}

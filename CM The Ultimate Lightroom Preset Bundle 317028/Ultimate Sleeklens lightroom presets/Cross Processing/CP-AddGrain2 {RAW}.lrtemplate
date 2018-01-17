@@ -1,0 +1,17 @@
+s = {
+	id = "F7F4AE28-9F77-48C6-92E8-07C3825236E5",
+	internalName = "CP-AddGrain2",
+	title = "CP-AddGrain2 {RAW}",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 71,
+			GrainFrequency = 79,
+			GrainSize = 42,
+			ProcessVersion = "6.7",
+		},
+		uuid = "680DFC50-764F-466B-A3EE-54A953574AD6",
+	},
+	version = 0,
+}

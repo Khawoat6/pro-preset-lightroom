@@ -1,0 +1,19 @@
+s = {
+	id = "BDAADF02-71A6-46E6-96C8-4EA9AF6519F7",
+	internalName = "05",
+	title = "05",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = -62,
+			Contrast2012 = -6,
+			Exposure2012 = 0.25,
+			Highlights2012 = -1,
+			ProcessVersion = "6.7",
+			Shadows2012 = 23,
+			Whites2012 = 40,
+		},
+		uuid = "69B879FD-6FA9-4CCE-8051-AB02432587E6",
+	},
+	version = 0,
+}

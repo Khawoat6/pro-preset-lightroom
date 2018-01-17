@@ -1,0 +1,17 @@
+s = {
+	id = "0C6D374C-51FD-46F2-B285-E551CDC6B65F",
+	internalName = "B&W-AddGrain {JPEG}",
+	title = "B&W-AddGrain {JPEG}",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 24,
+			GrainFrequency = 23,
+			GrainSize = 12,
+			ProcessVersion = "6.7",
+		},
+		uuid = "AEF68D65-7B5E-421F-BD4C-0B355DBAB728",
+	},
+	version = 0,
+}

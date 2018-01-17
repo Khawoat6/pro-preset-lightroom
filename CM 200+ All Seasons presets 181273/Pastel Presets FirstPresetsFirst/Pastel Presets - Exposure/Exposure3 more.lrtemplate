@@ -1,0 +1,15 @@
+s = {
+	id = "2B40F7DB-4DF3-44B5-8767-0CF79D8C345D",
+	internalName = "Exposure3 more",
+	title = "Exposure3 more",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 10,
+			Exposure2012 = 0.8,
+			ProcessVersion = "6.7",
+		},
+		uuid = "2F5FC3C6-AB74-4C1D-A053-ADCE7A63F061",
+	},
+	version = 0,
+}

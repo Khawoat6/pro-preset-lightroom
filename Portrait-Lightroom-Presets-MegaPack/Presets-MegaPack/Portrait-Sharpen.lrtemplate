@@ -1,0 +1,18 @@
+s = {
+	id = "005AC586-4B70-4811-8E15-275A4D7E4DEB",
+	internalName = "Portrait16-Sharpen",
+	title = "Portrait-Sharpen",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			ProcessVersion = "6.7",
+			SharpenDetail = 42,
+			SharpenEdgeMasking = 20,
+			SharpenRadius = 0.8,
+			Sharpness = 59,
+		},
+		uuid = "359A49A0-85E3-4125-A5A2-A0E5ED608D49",
+	},
+	version = 0,
+}

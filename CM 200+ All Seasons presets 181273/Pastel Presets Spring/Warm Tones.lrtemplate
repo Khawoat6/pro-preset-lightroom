@@ -1,0 +1,16 @@
+s = {
+	id = "882F1119-F4A5-4E0D-A4A8-1E96495E957C",
+	internalName = "Warm Tones",
+	title = "Warm Tones",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 5966,
+			Tint = -12,
+			WhiteBalance = "Custom",
+		},
+		uuid = "DC309D64-9463-48F4-81F4-0EB645585496",
+	},
+	version = 0,
+}

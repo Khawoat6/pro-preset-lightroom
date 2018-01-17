@@ -1,0 +1,23 @@
+s = {
+	id = "CA6A571D-00FC-4A3F-9665-83BBA5013132",
+	internalName = "Camera",
+	title = "Vignette | Camera",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			PostCropVignetteAmount = -100,
+			PostCropVignetteFeather = 17,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 77,
+			PostCropVignetteRoundness = 69,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "02B2F517-739C-4EDB-9DA1-EEEDE26A01AD",
+	},
+	version = 0,
+}

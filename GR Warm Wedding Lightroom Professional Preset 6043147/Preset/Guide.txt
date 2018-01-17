@@ -1,0 +1,16 @@
+- Included one preset - TA_warm_wed.lrtemplate
+- The file type: .lrtemplate
+- Designed to be used with: RAW, JPG
+- Need some changes with over- and underexposed images
+- Lightroom: 3.x or above
+
+
+And there are a little guide to make your photos better.
+
+You must understand that Lightroom presets have a better compatibility when they are used for a similar images. 
+Example: when you are using a warm preset, which is based on cold image, you should do the same, take your COLD(!) image, and use this preset. (DONT use it on warm image)
+If you use it, on warm image, you will get too much warming, because it will multiply. 
+
+BUT(!) if you want to use it on every image, you - can. Use it, then in "Basic" change "Temp" to the left side, until you will be happy.
+
+Hope my giude will help you. If you have any more questions, write it on my e-mail - zvolia@gmail.com and i will answer as fast as i can.

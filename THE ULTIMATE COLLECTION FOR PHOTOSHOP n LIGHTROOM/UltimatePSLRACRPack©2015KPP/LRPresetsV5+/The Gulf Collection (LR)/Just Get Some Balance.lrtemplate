@@ -1,0 +1,17 @@
+s = {
+	id = "353D4EDF-56E8-4F16-B1AF-382E4E94A73F",
+	internalName = "Just Get Some Balance 3",
+	title = "Just Get Some Balance 3",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 12,
+			Highlights2012 = -60,
+			ProcessVersion = "6.7",
+			Shadows2012 = 62,
+			Whites2012 = 13,
+		},
+		uuid = "E46038C3-8E57-4C2B-BAC4-FE2AC135D045",
+	},
+	version = 0,
+}

@@ -1,0 +1,17 @@
+s = {
+	id = "EF2B417D-A5A1-417A-93D7-97759553103E",
+	internalName = "Enhance - Noise Removal",
+	title = "Enhance - Noise Removal",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 40,
+			ProcessVersion = "6.7",
+		},
+		uuid = "B5CE2428-6654-4E40-B384-BC85DBDA7A66",
+	},
+	version = 0,
+}

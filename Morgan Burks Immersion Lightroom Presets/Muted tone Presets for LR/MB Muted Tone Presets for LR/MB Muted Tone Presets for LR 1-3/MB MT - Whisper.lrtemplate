@@ -1,0 +1,19 @@
+s = {
+	id = "EB705D9A-1A79-4193-BB68-15BC4B6240CE",
+	internalName = "MB MT - Whisper",
+	title = "MB MT - Whisper",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			EnableSplitToning = true,
+			SplitToningBalance = 14,
+			SplitToningHighlightHue = 47,
+			SplitToningHighlightSaturation = 19,
+			SplitToningShadowHue = 253,
+			SplitToningShadowSaturation = 26,
+		},
+		uuid = "A6AD0B10-5CA0-49ED-A73F-AC0038FAAAC1",
+	},
+	version = 0,
+}

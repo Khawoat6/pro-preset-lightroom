@@ -1,0 +1,20 @@
+s = {
+	id = "9DC04590-E31A-4712-8291-C5746A1617E1",
+	internalName = "17_Film B&W Lightroom Presets_Film Grain_Vingette_2 (Effects)",
+	title = "17_Film B&W Lightroom Presets_Film Grain_Vingette_2 (Effects)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = 100,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 67,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "0F98D059-551B-4F25-BFFC-9270E5DC6CB6",
+	},
+	version = 0,
+}

@@ -1,0 +1,16 @@
+s = {
+	id = "DB772419-7CA1-4A89-93DB-77B7B6FB8239",
+	internalName = "4250K",
+	title = "4250K",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 4250,
+			Tint = -12,
+			WhiteBalance = "Custom",
+		},
+		uuid = "9B71EC7A-BEC9-4FDF-A1D6-C70C1F1120F4",
+	},
+	version = 0,
+}

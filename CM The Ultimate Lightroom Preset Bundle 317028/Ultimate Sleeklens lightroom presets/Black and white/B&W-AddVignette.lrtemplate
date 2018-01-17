@@ -1,0 +1,20 @@
+s = {
+	id = "2F4AD77B-94E7-4E51-A7C6-82231A30ADBB",
+	internalName = "AddVignette",
+	title = "B&W-AddVignette",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -40,
+			PostCropVignetteFeather = 62,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 28,
+			PostCropVignetteRoundness = 12,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "633D1B19-44BA-43FA-9B9A-97684C8559BC",
+	},
+	version = 0,
+}

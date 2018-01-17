@@ -1,0 +1,15 @@
+s = {
+	id = "47130B61-3294-4789-9319-19AEBECB830E",
+	internalName = "ColorVibrance4",
+	title = "ColorVibrance4",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Vibrance = 80,
+		},
+		uuid = "E507BEED-D490-4345-873A-97AD74CD56F2",
+	},
+	version = 0,
+}

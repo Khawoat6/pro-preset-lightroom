@@ -1,0 +1,16 @@
+s = {
+	id = "08C7B06D-D486-4EF9-ADDD-1D6A09CA75EC",
+	internalName = "3750K",
+	title = "3750K",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 3750,
+			Tint = -12,
+			WhiteBalance = "Custom",
+		},
+		uuid = "BE545F94-989E-41C5-883E-80142B1603AB",
+	},
+	version = 0,
+}

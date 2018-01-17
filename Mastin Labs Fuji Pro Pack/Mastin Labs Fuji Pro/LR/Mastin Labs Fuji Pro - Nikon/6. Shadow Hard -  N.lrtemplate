@@ -1,0 +1,18 @@
+s = {
+	id = "BCE8D7DD-E935-403D-9167-FACD9FF3936D",
+	internalName = "6. Shadow Hard -  N",
+	title = "6. Shadow Hard -  N",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 75,
+			Contrast2012 = 89,
+			Highlights2012 = -63,
+			ProcessVersion = "6.7",
+			Shadows2012 = -15,
+			Whites2012 = -41,
+		},
+		uuid = "0D9DADFA-1743-4A78-A91E-F6A75B230975",
+	},
+	version = 0,
+}

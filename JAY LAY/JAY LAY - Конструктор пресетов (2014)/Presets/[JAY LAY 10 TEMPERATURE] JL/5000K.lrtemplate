@@ -1,0 +1,16 @@
+s = {
+	id = "36334196-41F9-4525-BA0E-3FBCBA75FE73",
+	internalName = "5000K",
+	title = "5000K",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 5000,
+			Tint = -12,
+			WhiteBalance = "Custom",
+		},
+		uuid = "03236861-ED1D-4BE2-B906-ADB1E43C70F1",
+	},
+	version = 0,
+}

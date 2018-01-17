@@ -1,0 +1,19 @@
+s = {
+	id = "3D52CF6C-F640-4200-96B4-8BFA934379C2",
+	internalName = "Tone - Cool Breeze",
+	title = "Tone - Cool Breeze",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 5,
+			SplitToningHighlightHue = 60,
+			SplitToningHighlightSaturation = 14,
+			SplitToningShadowHue = 240,
+			SplitToningShadowSaturation = 31,
+		},
+		uuid = "09F90691-2689-4D23-A154-DDF434BF7366",
+	},
+	version = 0,
+}

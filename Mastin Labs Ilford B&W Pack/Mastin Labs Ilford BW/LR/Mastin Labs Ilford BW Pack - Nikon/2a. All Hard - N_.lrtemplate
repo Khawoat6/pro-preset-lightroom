@@ -1,0 +1,18 @@
+s = {
+	id = "277EDFEB-DBAD-4CEE-83CF-7D1884E7CF3A",
+	internalName = "2a. All Hard - N ",
+	title = "2a. All Hard - N ",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 29,
+			Contrast2012 = 87,
+			Highlights2012 = -23,
+			ProcessVersion = "6.7",
+			Shadows2012 = -32,
+			Whites2012 = 14,
+		},
+		uuid = "94B24287-A02B-4899-854C-B9E2B16B80F2",
+	},
+	version = 0,
+}

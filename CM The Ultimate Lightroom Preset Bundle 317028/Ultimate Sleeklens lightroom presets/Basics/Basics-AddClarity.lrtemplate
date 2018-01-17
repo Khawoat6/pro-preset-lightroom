@@ -1,0 +1,14 @@
+s = {
+	id = "762A29BB-17E7-4222-8B81-6DBABAB65AB2",
+	internalName = "Basics-AddClarity",
+	title = "Basics-AddClarity",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 40,
+			ProcessVersion = "6.7",
+		},
+		uuid = "D726C076-133A-4AFB-A5E7-B17AC1158265",
+	},
+	version = 0,
+}

@@ -1,0 +1,22 @@
+s = {
+	id = "5D6CCB2A-5041-4629-9061-9B3648F544F0",
+	internalName = "JAY CALIBRATION",
+	title = "JAY CALIBRATION",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = -46,
+			BlueSaturation = -100,
+			CameraProfile = "Adobe Standard",
+			EnableCalibration = true,
+			GreenHue = 100,
+			GreenSaturation = 72,
+			ProcessVersion = "6.7",
+			RedHue = 52,
+			RedSaturation = -34,
+			ShadowTint = -4,
+		},
+		uuid = "4FCDE33E-D08A-45D6-AEE6-8BDF41E38545",
+	},
+	version = 0,
+}

@@ -1,0 +1,19 @@
+s = {
+	id = "C:\\Users\\Gary\\AppData\\Roaming\\Adobe\\Lightroom\\Develop Presets\\ARTISTIC 2\\WOW-d_BnW_00_Auto-Tone.lrtemplate",
+	internalName = "WOW-d_BnW_00_Auto+Tone",
+	title = "ARTISTIC2-Elegan BW Auto",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoGrayscaleMix = true,
+			AutoShadows = false,
+			AutoTone = true,
+			ConvertToGrayscale = true,
+		},
+		uuid = "F1692AD5-2AA2-4222-BA66-5C5187E74212",
+	},
+	version = 0,
+}

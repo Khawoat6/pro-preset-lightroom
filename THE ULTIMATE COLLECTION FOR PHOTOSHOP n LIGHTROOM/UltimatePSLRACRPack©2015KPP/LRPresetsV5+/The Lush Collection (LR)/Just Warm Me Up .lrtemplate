@@ -1,0 +1,23 @@
+s = {
+	id = "F4C68725-92B0-42CB-9809-522711B1B42C",
+	internalName = "Just Warm Me Up 2",
+	title = "Just Warm Me Up 2",
+	type = "Develop",
+	value = {
+		settings = {
+			ColorNoiseReduction = 25,
+			ColorNoiseReductionDetail = 50,
+			ColorNoiseReductionSmoothness = 50,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 0,
+			ProcessVersion = "6.7",
+			Temperature = 9914,
+			Tint = 17,
+			WhiteBalance = "Custom",
+		},
+		uuid = "60A847F8-EA85-4E83-881C-84558233D9B9",
+	},
+	version = 0,
+}

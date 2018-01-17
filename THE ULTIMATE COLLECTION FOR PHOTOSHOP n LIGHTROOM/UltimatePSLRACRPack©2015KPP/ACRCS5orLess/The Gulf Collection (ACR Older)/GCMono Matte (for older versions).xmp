@@ -1,0 +1,47 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="Mono Matte (for older versions) - Converted by ACR Preset Manager: http://ACRPresetManager.com"
+   xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   crs:HasSettings="True"
+   crs:AutoBrightness = "false"
+   crs:AutoContrast = "false"
+   crs:AutoExposure = "false"
+   crs:AutoShadows = "false"
+   crs:Brightness = "50"
+   crs:Contrast = "25"
+   crs:ConvertToGrayscale = "true"
+   crs:EnableGrayscaleMix = "true"
+   crs:Exposure = "0"
+   crs:FillLight = "0"
+   crs:GrayMixerAqua = "-20"
+   crs:GrayMixerBlue = "3"
+   crs:GrayMixerGreen = "-22"
+   crs:GrayMixerMagenta = "5"
+   crs:GrayMixerOrange = "-11"
+   crs:GrayMixerPurple = "11"
+   crs:GrayMixerRed = "-3"
+   crs:GrayMixerYellow = "-14"
+   crs:HighlightRecovery = "0"
+   crs:ParametricDarks = "0"
+   crs:ParametricHighlightSplit = "75"
+   crs:ParametricHighlights = "0"
+   crs:ParametricLights = "0"
+   crs:ParametricMidtoneSplit = "50"
+   crs:ParametricShadowSplit = "25"
+   crs:ParametricShadows = "0"
+   crs:Shadows = "5"
+   crs:Temperature = "11044"
+   crs:Tint = "16"
+   crs:ToneCurveName = "Custom"
+   crs:WhiteBalance = "Custom">
+   <crs:ToneCurve>
+    <rdf:Seq>
+    <rdf:li>0,29</rdf:li>
+    <rdf:li>60,60</rdf:li>
+    <rdf:li>255,255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurve>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

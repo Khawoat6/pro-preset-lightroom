@@ -1,0 +1,14 @@
+s = {
+	id = "DF1E3F68-3188-4D68-964D-0BB245D2BCD5",
+	internalName = "Just Bring the People (Shadows) 2",
+	title = "Just Bring the People (Shadows) 2",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Shadows2012 = 81,
+		},
+		uuid = "740E2055-2175-4F47-B69F-FCCE483D9FD4",
+	},
+	version = 0,
+}

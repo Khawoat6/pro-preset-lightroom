@@ -1,0 +1,16 @@
+s = {
+	id = "3A51D2CC-5DA6-4D5A-97FB-A70AE11D788D",
+	internalName = "3500K",
+	title = "3500K",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 3500,
+			Tint = -12,
+			WhiteBalance = "Custom",
+		},
+		uuid = "45356F26-321B-40BA-B56C-275631834A1F",
+	},
+	version = 0,
+}

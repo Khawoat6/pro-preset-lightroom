@@ -1,0 +1,23 @@
+s = {
+	id = "DD0D252C-1657-4BB3-894A-B25FF844283E",
+	internalName = "3b. Green Filter - N",
+	title = "3b. Green Filter - N",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			GrayMixerAqua = 20,
+			GrayMixerBlue = -7,
+			GrayMixerGreen = 26,
+			GrayMixerMagenta = -11,
+			GrayMixerOrange = -22,
+			GrayMixerPurple = -19,
+			GrayMixerRed = -32,
+			GrayMixerYellow = 11,
+			ProcessVersion = "6.7",
+		},
+		uuid = "AE76C24E-1005-4AE9-8F68-6EF87695652A",
+	},
+	version = 0,
+}

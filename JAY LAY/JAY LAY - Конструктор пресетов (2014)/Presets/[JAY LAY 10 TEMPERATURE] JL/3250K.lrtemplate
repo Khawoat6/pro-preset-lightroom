@@ -1,0 +1,16 @@
+s = {
+	id = "0383A01B-DBE5-4A55-A233-1E9C50DB3C07",
+	internalName = "3250K",
+	title = "3250K",
+	type = "Develop",
+	value = {
+		settings = {
+			ProcessVersion = "6.7",
+			Temperature = 3250,
+			Tint = -12,
+			WhiteBalance = "Custom",
+		},
+		uuid = "CF2CD5A9-FCDE-4FAE-82E5-6331F4C1249F",
+	},
+	version = 0,
+}

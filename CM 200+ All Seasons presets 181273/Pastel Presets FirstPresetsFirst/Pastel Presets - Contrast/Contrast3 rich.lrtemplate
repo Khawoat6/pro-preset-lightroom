@@ -1,0 +1,14 @@
+s = {
+	id = "725AD75A-16C1-464E-BBE0-F954483BC542",
+	internalName = "Contrast3 rich",
+	title = "Contrast3 rich",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = 40,
+			ProcessVersion = "6.7",
+		},
+		uuid = "85773B96-E1E2-4133-BBBD-DF9EBB7525BB",
+	},
+	version = 0,
+}

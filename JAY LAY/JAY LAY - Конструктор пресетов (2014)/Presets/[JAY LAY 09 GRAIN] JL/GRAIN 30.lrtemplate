@@ -1,0 +1,17 @@
+s = {
+	id = "90976127-5037-4CAB-AEE9-1543477C4F88",
+	internalName = "GRAIN 30",
+	title = "GRAIN 30",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 30,
+			GrainFrequency = 40,
+			GrainSize = 25,
+			ProcessVersion = "6.7",
+		},
+		uuid = "60C558A4-BC66-49E0-87AC-F9D57AC01A3C",
+	},
+	version = 0,
+}

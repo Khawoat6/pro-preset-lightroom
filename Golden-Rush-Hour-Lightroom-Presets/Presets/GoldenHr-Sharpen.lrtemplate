@@ -1,0 +1,19 @@
+s = {
+	id = "87AAE9F2-38DA-43E1-84DE-3E781E8A8D1D",
+	internalName = "GoldenHr-Sharpen",
+	title = "GoldenHr-Sharpen",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 29,
+			EnableDetail = true,
+			ProcessVersion = "6.7",
+			SharpenDetail = 32,
+			SharpenEdgeMasking = 11,
+			SharpenRadius = 0.9,
+			Sharpness = 57,
+		},
+		uuid = "523038BC-E085-4F5E-88F3-B81B2F429527",
+	},
+	version = 0,
+}

@@ -1,0 +1,19 @@
+s = {
+	id = "36646DD3-199F-4EC6-9FEF-A72FBCBEDA23",
+	internalName = "ST-PurpleHigh",
+	title = "ST-PurpleHigh",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 247,
+			SplitToningHighlightSaturation = 65,
+			SplitToningShadowHue = 166,
+			SplitToningShadowSaturation = 27,
+		},
+		uuid = "F84EA2A0-C3BF-4B1E-8D37-B330DBD79F10",
+	},
+	version = 0,
+}

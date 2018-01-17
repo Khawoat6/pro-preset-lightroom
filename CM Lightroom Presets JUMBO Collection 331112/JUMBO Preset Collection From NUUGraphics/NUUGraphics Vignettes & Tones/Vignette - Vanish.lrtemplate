@@ -1,0 +1,23 @@
+s = {
+	id = "8E91666C-1D64-4063-9C07-7A391984E546",
+	internalName = "Vanish",
+	title = "Vignette | Vanish",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 50,
+			GrainSize = 25,
+			PostCropVignetteAmount = 71,
+			PostCropVignetteFeather = 100,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 69,
+			PostCropVignetteRoundness = -55,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "95B79AEB-4DB5-461A-887A-F368273182FB",
+	},
+	version = 0,
+}

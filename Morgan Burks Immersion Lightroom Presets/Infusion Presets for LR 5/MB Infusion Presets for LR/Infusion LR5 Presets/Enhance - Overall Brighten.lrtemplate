@@ -1,0 +1,14 @@
+s = {
+	id = "91FCE12E-0BF3-4929-BC4A-0A3F4E26E4FC",
+	internalName = "Enhance - Overall Brighten",
+	title = "Enhance - Overall Brighten",
+	type = "Develop",
+	value = {
+		settings = {
+			Exposure2012 = 0.24,
+			ProcessVersion = "6.7",
+		},
+		uuid = "2C38ACE2-7361-4828-B119-B239283022B0",
+	},
+	version = 0,
+}

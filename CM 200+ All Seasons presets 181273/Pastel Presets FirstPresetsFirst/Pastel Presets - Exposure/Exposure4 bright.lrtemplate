@@ -1,0 +1,15 @@
+s = {
+	id = "ACFF4B4A-4DF4-4895-B9DE-C2C838F9D1B4",
+	internalName = "Exposure4 bright",
+	title = "Exposure4 bright",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 10,
+			Exposure2012 = 1.1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "F0F0E477-0790-489F-B2E8-F1B551CA4660",
+	},
+	version = 0,
+}

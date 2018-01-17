@@ -1,0 +1,15 @@
+s = {
+	id = "BA9DD4FD-089A-4066-B680-DF53A56600FA",
+	internalName = "MB MT - Boost",
+	title = "MB MT - Boost",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoContrast = false,
+			Contrast = 43,
+			ConvertToGrayscale = false,
+		},
+		uuid = "D6A9DED1-2548-4AE0-BE2D-56E3ECB6B7F4",
+	},
+	version = 0,
+}

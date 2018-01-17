@@ -1,0 +1,20 @@
+s = {
+	id = "64BD92F4-4A89-4D2B-A391-D215C4CF9DE6",
+	internalName = "Film-AddPeephole",
+	title = "Film-AddPeephole",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -100,
+			PostCropVignetteFeather = 8,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 82,
+			PostCropVignetteRoundness = 100,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "5B272750-E001-46DA-9E54-8EF0CD9B5D91",
+	},
+	version = 0,
+}

@@ -1,0 +1,19 @@
+s = {
+	id = "698038B6-1428-463F-AC37-0741052E633A",
+	internalName = "ColorPastel",
+	title = "ColorPastel",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 48,
+			SplitToningHighlightHue = 359,
+			SplitToningHighlightSaturation = 13,
+			SplitToningShadowHue = 218,
+			SplitToningShadowSaturation = 82,
+		},
+		uuid = "D5C93889-ED89-4B10-A575-4B39774658F3",
+	},
+	version = 0,
+}

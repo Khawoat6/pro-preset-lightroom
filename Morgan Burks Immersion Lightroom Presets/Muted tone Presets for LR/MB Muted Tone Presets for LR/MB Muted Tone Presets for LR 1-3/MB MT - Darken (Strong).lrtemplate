@@ -1,0 +1,16 @@
+s = {
+	id = "A130C18F-F497-494A-9015-26E569F67677",
+	internalName = "MB MT - Darken (Strong)",
+	title = "MB MT - Darken (Strong)",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoExposure = false,
+			ConvertToGrayscale = false,
+			Exposure = -0.76,
+			FillLight = 12,
+		},
+		uuid = "D056BF31-786D-435C-B4C3-A9454988B5F4",
+	},
+	version = 0,
+}

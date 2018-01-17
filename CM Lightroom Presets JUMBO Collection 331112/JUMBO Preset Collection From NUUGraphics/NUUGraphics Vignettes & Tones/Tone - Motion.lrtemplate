@@ -1,0 +1,19 @@
+s = {
+	id = "405D8426-C6F1-4D69-8275-50086AA96DA3",
+	internalName = "Tone | Motion",
+	title = "Tone | Motion",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 55,
+			SplitToningHighlightHue = 227,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 201,
+			SplitToningShadowSaturation = 32,
+		},
+		uuid = "5F84BFCF-D2DE-4301-A561-9B8ACB53728A",
+	},
+	version = 0,
+}
